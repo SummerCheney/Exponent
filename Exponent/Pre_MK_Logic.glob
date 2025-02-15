@@ -1,0 +1,111 @@
+DIGEST c79ad49356c9d6aa1fdb9a296dfb2c16
+FPre_MK_Logic
+binder 663:663 <> x:1
+binder 677:677 <> y:2
+not 635:635 <> ::type_scope:'∀'_x_'..'_x_','_x
+R825:831 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R833:834 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 832:832 <> x:3
+R839:845 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R847:848 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 846:846 <> y:4
+not 804:804 <> ::type_scope:'∃'_x_'..'_x_','_x
+binder 999:999 <> x:5
+binder 1012:1012 <> y:6
+not 973:973 <> :::'λ'_x_'..'_x_','_x
+mod 1153:1157 <> Logic
+ax 1167:1173 Logic classic
+R1177:1180 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1182:1183 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1181:1181 <> P:7
+R1185:1188 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R1184:1184 Pre_MK_Logic <> P:7 var
+R1189:1189 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1190:1190 Pre_MK_Logic <> P:7 var
+prf 1206:1211 Logic peirce
+R1215:1218 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1220:1221 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1219:1219 <> P:9
+R1222:1222 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1230:1234 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1225:1228 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1223:1223 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1224:1224 Pre_MK_Logic <> P:9 var
+R1229:1229 Pre_MK_Logic <> P:9 var
+R1235:1235 Pre_MK_Logic <> P:9 var
+R1265:1271 Pre_MK_Logic Logic classic prfax
+R1265:1271 Pre_MK_Logic Logic classic prfax
+prf 1301:1304 Logic NNPP
+R1308:1311 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1313:1314 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1312:1312 <> P:10
+R1318:1322 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R1315:1315 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1316:1316 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1317:1317 Pre_MK_Logic <> P:10 var
+R1323:1323 Pre_MK_Logic <> P:10 var
+R1360:1366 Pre_MK_Logic Logic classic prfax
+R1360:1366 Pre_MK_Logic Logic classic prfax
+R1360:1366 Pre_MK_Logic Logic classic prfax
+prf 1397:1404 Logic notandor
+R1408:1411 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1415:1418 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1412:1412 <> P:11
+binder 1414:1414 <> Q:12
+R1419:1419 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R1446:1451 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R1478:1478 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R1429:1433 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R1420:1421 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1428:1428 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1423:1426 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R1422:1422 Pre_MK_Logic <> P:11 var
+R1427:1427 Pre_MK_Logic <> Q:12 var
+R1434:1434 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R1437:1442 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R1445:1445 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R1435:1435 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1436:1436 Pre_MK_Logic <> P:11 var
+R1443:1443 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1444:1444 Pre_MK_Logic <> Q:12 var
+R1461:1465 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R1452:1453 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1460:1460 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1455:1458 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R1454:1454 Pre_MK_Logic <> P:11 var
+R1459:1459 Pre_MK_Logic <> Q:12 var
+R1466:1466 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R1469:1474 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R1477:1477 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R1467:1467 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1468:1468 Pre_MK_Logic <> P:11 var
+R1475:1475 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1476:1476 Pre_MK_Logic <> Q:12 var
+R1508:1514 Pre_MK_Logic Logic classic prfax
+R1508:1514 Pre_MK_Logic Logic classic prfax
+prf 1545:1547 Logic inp
+R1551:1555 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1565:1567 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1556:1556 <> P:13
+binder 1558:1558 <> Q:14
+R1568:1568 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1575:1579 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1570:1573 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1569:1569 Pre_MK_Logic <> P:13 var
+R1574:1574 Pre_MK_Logic <> Q:14 var
+R1580:1580 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1583:1588 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1591:1591 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1581:1581 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1582:1582 Pre_MK_Logic <> Q:14 var
+R1589:1589 Coq.Init.Logic <> ::type_scope:'~'_x not
+R1590:1590 Pre_MK_Logic <> P:13 var
+R1711:1717 Pre_MK_Logic Logic classic prfax
+R1745:1750 Pre_MK_Logic Logic peirce thm
+R1858:1861 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R1858:1861 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R1956:1959 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R1956:1959 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R2054:2057 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R2054:2057 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R2107:2111 Pre_MK_Logic Logic <> mod

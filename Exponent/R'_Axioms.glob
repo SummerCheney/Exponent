@@ -1,0 +1,3074 @@
+DIGEST cae824a02b567718c652c0d3a5c22de0
+FR'_Axioms
+R15:20 MK_1_6 <> <> lib
+ax 152:153 <> R'
+R157:161 MK_1_6 <> Class defax
+ax 171:181 <> Ensemble_R'
+R185:192 MK_1_6 <> Ensemble def
+R194:195 R'_Axioms <> R' defax
+ax 228:230 <> fp'
+R234:238 MK_1_6 <> Class defax
+ax 248:253 <> PlusR'
+R257:257 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R270:274 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R258:265 MK_1_6 <> Function def
+R267:269 R'_Axioms <> fp' defax
+R275:275 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R295:302 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R318:318 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R284:286 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R276:279 MK_1_6 <> :::'dom('_x_')' not
+R283:283 MK_1_6 <> :::'dom('_x_')' not
+R280:282 R'_Axioms <> fp' defax
+R289:292 MK_1_6 <> :::x_'×'_x not
+R287:288 R'_Axioms <> R' defax
+R293:294 R'_Axioms <> R' defax
+R311:315 MK_1_6 <> :::x_'⊂'_x not
+R303:306 MK_1_6 <> :::'ran('_x_')' not
+R310:310 MK_1_6 <> :::'ran('_x_')' not
+R307:309 R'_Axioms <> fp' defax
+R316:317 R'_Axioms <> R' defax
+R358:358 MK_1_6 <> :::x_'['_x_']' not
+R365:365 MK_1_6 <> :::x_'['_x_']' not
+R355:357 R'_Axioms <> fp' defax
+R359:359 MK_1_6 <> :::'['_x_','_x_']' not
+R361:362 MK_1_6 <> :::'['_x_','_x_']' not
+R364:364 MK_1_6 <> :::'['_x_','_x_']' not
+not 344:344 <> ::R'_scope:x_'+'_x
+ax 431:436 <> zeroR'
+R440:444 MK_1_6 <> Class defax
+R468:473 R'_Axioms <> zeroR' defax
+not 457:457 <> ::R'_scope:'0'_''''
+ax 494:503 <> zero_in_R'
+R509:513 MK_1_6 <> :::x_'∈'_x not
+R507:508 R'_Axioms <> ::R'_scope:'0'_'''' not
+R514:515 R'_Axioms <> R' defax
+ax 525:532 <> Plus_P1'
+R536:539 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R541:542 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 540:540 <> x:7
+R551:554 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R544:548 MK_1_6 <> :::x_'∈'_x not
+R543:543 R'_Axioms <> x:7 var
+R549:550 R'_Axioms <> R' defax
+R561:563 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R556:558 R'_Axioms <> ::R'_scope:x_'+'_x not
+R555:555 R'_Axioms <> x:7 var
+R559:560 R'_Axioms <> ::R'_scope:'0'_'''' not
+R564:564 R'_Axioms <> x:7 var
+ax 574:581 <> Plus_P2'
+R585:588 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R590:591 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 589:589 <> x:9
+R600:603 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R593:597 MK_1_6 <> :::x_'∈'_x not
+R592:592 R'_Axioms <> x:9 var
+R598:599 R'_Axioms <> R' defax
+R604:607 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R609:610 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 608:608 <> y:10
+R619:622 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R612:616 MK_1_6 <> :::x_'∈'_x not
+R611:611 R'_Axioms <> y:10 var
+R617:618 R'_Axioms <> R' defax
+R628:630 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R624:626 R'_Axioms <> ::R'_scope:x_'+'_x not
+R623:623 R'_Axioms <> x:9 var
+R627:627 R'_Axioms <> y:10 var
+R631:632 R'_Axioms <> ::R'_scope:'0'_'''' not
+ax 642:649 <> Plus_P3'
+R653:656 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R662:663 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 657:657 <> x:12
+binder 659:659 <> y:13
+binder 661:661 <> z:14
+R672:675 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R665:669 MK_1_6 <> :::x_'∈'_x not
+R664:664 R'_Axioms <> x:12 var
+R670:671 R'_Axioms <> R' defax
+R684:687 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R677:681 MK_1_6 <> :::x_'∈'_x not
+R676:676 R'_Axioms <> y:13 var
+R682:683 R'_Axioms <> R' defax
+R696:701 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R689:693 MK_1_6 <> :::x_'∈'_x not
+R688:688 R'_Axioms <> z:14 var
+R694:695 R'_Axioms <> R' defax
+R713:715 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R703:706 R'_Axioms <> ::R'_scope:x_'+'_x not
+R712:712 R'_Axioms <> ::R'_scope:x_'+'_x not
+R702:702 R'_Axioms <> x:12 var
+R708:710 R'_Axioms <> ::R'_scope:x_'+'_x not
+R707:707 R'_Axioms <> y:13 var
+R711:711 R'_Axioms <> z:14 var
+R716:716 R'_Axioms <> ::R'_scope:x_'+'_x not
+R722:725 R'_Axioms <> ::R'_scope:x_'+'_x not
+R718:720 R'_Axioms <> ::R'_scope:x_'+'_x not
+R717:717 R'_Axioms <> x:12 var
+R721:721 R'_Axioms <> y:13 var
+R726:726 R'_Axioms <> z:14 var
+ax 736:743 <> Plus_P4'
+R747:750 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R754:755 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 751:751 <> x:16
+binder 753:753 <> y:17
+R764:767 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R757:761 MK_1_6 <> :::x_'∈'_x not
+R756:756 R'_Axioms <> x:16 var
+R762:763 R'_Axioms <> R' defax
+R776:779 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R769:773 MK_1_6 <> :::x_'∈'_x not
+R768:768 R'_Axioms <> y:17 var
+R774:775 R'_Axioms <> R' defax
+R785:787 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R781:783 R'_Axioms <> ::R'_scope:x_'+'_x not
+R780:780 R'_Axioms <> x:16 var
+R784:784 R'_Axioms <> y:17 var
+R789:791 R'_Axioms <> ::R'_scope:x_'+'_x not
+R788:788 R'_Axioms <> y:17 var
+R792:792 R'_Axioms <> x:16 var
+ax 825:827 <> fm'
+R831:835 MK_1_6 <> Class defax
+ax 845:850 <> MultR'
+R854:854 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R867:871 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R855:862 MK_1_6 <> Function def
+R864:866 R'_Axioms <> fm' defax
+R872:872 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R892:899 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R915:915 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R881:883 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R873:876 MK_1_6 <> :::'dom('_x_')' not
+R880:880 MK_1_6 <> :::'dom('_x_')' not
+R877:879 R'_Axioms <> fm' defax
+R886:889 MK_1_6 <> :::x_'×'_x not
+R884:885 R'_Axioms <> R' defax
+R890:891 R'_Axioms <> R' defax
+R908:912 MK_1_6 <> :::x_'⊂'_x not
+R900:903 MK_1_6 <> :::'ran('_x_')' not
+R907:907 MK_1_6 <> :::'ran('_x_')' not
+R904:906 R'_Axioms <> fm' defax
+R913:914 R'_Axioms <> R' defax
+R956:956 MK_1_6 <> :::x_'['_x_']' not
+R963:963 MK_1_6 <> :::x_'['_x_']' not
+R953:955 R'_Axioms <> fm' defax
+R957:957 MK_1_6 <> :::'['_x_','_x_']' not
+R959:960 MK_1_6 <> :::'['_x_','_x_']' not
+R962:962 MK_1_6 <> :::'['_x_','_x_']' not
+not 941:941 <> ::R'_scope:x_'·'_x
+ax 1042:1046 <> oneR'
+R1050:1054 MK_1_6 <> Class defax
+R1078:1082 R'_Axioms <> oneR' defax
+not 1067:1067 <> ::R'_scope:'1'_''''
+ax 1103:1111 <> one_in_R'
+R1117:1122 MK_1_6 <> :::x_'∈'_x not
+R1132:1132 MK_1_6 <> :::x_'∈'_x not
+R1115:1116 R'_Axioms <> ::R'_scope:'1'_'''' not
+R1125:1127 MK_1_6 <> :::x_'~'_x not
+R1123:1124 R'_Axioms <> R' defax
+R1128:1128 MK_1_6 <> :::'['_x_']' not
+R1131:1131 MK_1_6 <> :::'['_x_']' not
+R1129:1130 R'_Axioms <> ::R'_scope:'0'_'''' not
+ax 1142:1149 <> Mult_P1'
+R1153:1156 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1158:1159 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1157:1157 <> x:23
+R1168:1171 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1161:1165 MK_1_6 <> :::x_'∈'_x not
+R1160:1160 R'_Axioms <> x:23 var
+R1166:1167 R'_Axioms <> R' defax
+R1179:1181 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R1173:1176 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1172:1172 R'_Axioms <> x:23 var
+R1177:1178 R'_Axioms <> ::R'_scope:'1'_'''' not
+R1182:1182 R'_Axioms <> x:23 var
+ax 1192:1199 <> Mult_P2'
+R1203:1206 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1208:1209 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1207:1207 <> x:25
+R1227:1230 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1211:1216 MK_1_6 <> :::x_'∈'_x not
+R1226:1226 MK_1_6 <> :::x_'∈'_x not
+R1210:1210 R'_Axioms <> x:25 var
+R1219:1221 MK_1_6 <> :::x_'~'_x not
+R1217:1218 R'_Axioms <> R' defax
+R1222:1222 MK_1_6 <> :::'['_x_']' not
+R1225:1225 MK_1_6 <> :::'['_x_']' not
+R1223:1224 R'_Axioms <> ::R'_scope:'0'_'''' not
+R1231:1234 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R1236:1237 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 1235:1235 <> y:26
+R1246:1249 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R1239:1243 MK_1_6 <> :::x_'∈'_x not
+R1238:1238 R'_Axioms <> y:26 var
+R1244:1245 R'_Axioms <> R' defax
+R1256:1258 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R1251:1254 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1250:1250 R'_Axioms <> x:25 var
+R1255:1255 R'_Axioms <> y:26 var
+R1259:1260 R'_Axioms <> ::R'_scope:'1'_'''' not
+ax 1270:1277 <> Mult_P3'
+R1281:1284 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1290:1291 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1285:1285 <> x:28
+binder 1287:1287 <> y:29
+binder 1289:1289 <> z:30
+R1300:1303 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1293:1297 MK_1_6 <> :::x_'∈'_x not
+R1292:1292 R'_Axioms <> x:28 var
+R1298:1299 R'_Axioms <> R' defax
+R1312:1315 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1305:1309 MK_1_6 <> :::x_'∈'_x not
+R1304:1304 R'_Axioms <> y:29 var
+R1310:1311 R'_Axioms <> R' defax
+R1324:1329 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1317:1321 MK_1_6 <> :::x_'∈'_x not
+R1316:1316 R'_Axioms <> z:30 var
+R1322:1323 R'_Axioms <> R' defax
+R1343:1345 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R1331:1335 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1342:1342 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1330:1330 R'_Axioms <> x:28 var
+R1337:1340 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1336:1336 R'_Axioms <> y:29 var
+R1341:1341 R'_Axioms <> z:30 var
+R1346:1346 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1353:1357 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1348:1351 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1347:1347 R'_Axioms <> x:28 var
+R1352:1352 R'_Axioms <> y:29 var
+R1358:1358 R'_Axioms <> z:30 var
+ax 1368:1375 <> Mult_P4'
+R1379:1382 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1386:1387 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1383:1383 <> x:32
+binder 1385:1385 <> y:33
+R1396:1399 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1389:1393 MK_1_6 <> :::x_'∈'_x not
+R1388:1388 R'_Axioms <> x:32 var
+R1394:1395 R'_Axioms <> R' defax
+R1408:1411 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1401:1405 MK_1_6 <> :::x_'∈'_x not
+R1400:1400 R'_Axioms <> y:33 var
+R1406:1407 R'_Axioms <> R' defax
+R1418:1420 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R1413:1416 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1412:1412 R'_Axioms <> x:32 var
+R1417:1417 R'_Axioms <> y:33 var
+R1422:1425 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1421:1421 R'_Axioms <> y:33 var
+R1426:1426 R'_Axioms <> x:32 var
+ax 1436:1443 <> Mult_P5'
+R1447:1450 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1456:1457 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1451:1451 <> x:35
+binder 1453:1453 <> y:36
+binder 1455:1455 <> z:37
+R1466:1469 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1459:1463 MK_1_6 <> :::x_'∈'_x not
+R1458:1458 R'_Axioms <> x:35 var
+R1464:1465 R'_Axioms <> R' defax
+R1478:1481 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1471:1475 MK_1_6 <> :::x_'∈'_x not
+R1470:1470 R'_Axioms <> y:36 var
+R1476:1477 R'_Axioms <> R' defax
+R1490:1495 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1483:1487 MK_1_6 <> :::x_'∈'_x not
+R1482:1482 R'_Axioms <> z:37 var
+R1488:1489 R'_Axioms <> R' defax
+R1508:1510 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R1496:1496 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1502:1506 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1498:1500 R'_Axioms <> ::R'_scope:x_'+'_x not
+R1497:1497 R'_Axioms <> x:35 var
+R1501:1501 R'_Axioms <> y:36 var
+R1507:1507 R'_Axioms <> z:37 var
+R1511:1511 R'_Axioms <> ::R'_scope:x_'+'_x not
+R1518:1522 R'_Axioms <> ::R'_scope:x_'+'_x not
+R1529:1529 R'_Axioms <> ::R'_scope:x_'+'_x not
+R1513:1516 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1512:1512 R'_Axioms <> x:35 var
+R1517:1517 R'_Axioms <> z:37 var
+R1524:1527 R'_Axioms <> ::R'_scope:x_'·'_x not
+R1523:1523 R'_Axioms <> y:36 var
+R1528:1528 R'_Axioms <> z:37 var
+ax 1559:1562 <> Leq'
+R1566:1570 MK_1_6 <> Class defax
+ax 1580:1584 <> LeqR'
+R1592:1596 MK_1_6 <> :::x_'⊂'_x not
+R1588:1591 R'_Axioms <> Leq' defax
+R1599:1602 MK_1_6 <> :::x_'×'_x not
+R1597:1598 R'_Axioms <> R' defax
+R1603:1604 R'_Axioms <> R' defax
+R1637:1641 MK_1_6 <> :::x_'∈'_x not
+R1631:1631 MK_1_6 <> :::'['_x_','_x_']' not
+R1633:1634 MK_1_6 <> :::'['_x_','_x_']' not
+R1636:1636 MK_1_6 <> :::'['_x_','_x_']' not
+R1642:1645 R'_Axioms <> Leq' defax
+not 1617:1617 <> ::R'_scope:x_'≤'_x
+ax 1680:1686 <> Leq_P1'
+R1690:1693 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1695:1696 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1694:1694 <> x:41
+R1705:1708 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1698:1702 MK_1_6 <> :::x_'∈'_x not
+R1697:1697 R'_Axioms <> x:41 var
+R1703:1704 R'_Axioms <> R' defax
+R1710:1714 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R1709:1709 R'_Axioms <> x:41 var
+R1715:1715 R'_Axioms <> x:41 var
+ax 1725:1731 <> Leq_P2'
+R1735:1738 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1742:1743 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1739:1739 <> x:43
+binder 1741:1741 <> y:44
+R1752:1755 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1745:1749 MK_1_6 <> :::x_'∈'_x not
+R1744:1744 R'_Axioms <> x:43 var
+R1750:1751 R'_Axioms <> R' defax
+R1764:1767 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1757:1761 MK_1_6 <> :::x_'∈'_x not
+R1756:1756 R'_Axioms <> y:44 var
+R1762:1763 R'_Axioms <> R' defax
+R1775:1778 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1769:1773 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R1768:1768 R'_Axioms <> x:43 var
+R1774:1774 R'_Axioms <> y:44 var
+R1786:1789 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1780:1784 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R1779:1779 R'_Axioms <> y:44 var
+R1785:1785 R'_Axioms <> x:43 var
+R1791:1793 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R1790:1790 R'_Axioms <> x:43 var
+R1794:1794 R'_Axioms <> y:44 var
+ax 1804:1810 <> Leq_P3'
+R1814:1817 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1823:1824 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1818:1818 <> x:46
+binder 1820:1820 <> y:47
+binder 1822:1822 <> z:48
+R1833:1836 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1826:1830 MK_1_6 <> :::x_'∈'_x not
+R1825:1825 R'_Axioms <> x:46 var
+R1831:1832 R'_Axioms <> R' defax
+R1845:1848 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1838:1842 MK_1_6 <> :::x_'∈'_x not
+R1837:1837 R'_Axioms <> y:47 var
+R1843:1844 R'_Axioms <> R' defax
+R1857:1860 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1850:1854 MK_1_6 <> :::x_'∈'_x not
+R1849:1849 R'_Axioms <> z:48 var
+R1855:1856 R'_Axioms <> R' defax
+R1868:1873 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1862:1866 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R1861:1861 R'_Axioms <> x:46 var
+R1867:1867 R'_Axioms <> y:47 var
+R1881:1884 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1875:1879 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R1874:1874 R'_Axioms <> y:47 var
+R1880:1880 R'_Axioms <> z:48 var
+R1886:1890 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R1885:1885 R'_Axioms <> x:46 var
+R1891:1891 R'_Axioms <> z:48 var
+ax 1901:1907 <> Leq_P4'
+R1911:1914 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1918:1919 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1915:1915 <> x:50
+binder 1917:1917 <> y:51
+R1928:1931 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1921:1925 MK_1_6 <> :::x_'∈'_x not
+R1920:1920 R'_Axioms <> x:50 var
+R1926:1927 R'_Axioms <> R' defax
+R1940:1943 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1933:1937 MK_1_6 <> :::x_'∈'_x not
+R1932:1932 R'_Axioms <> y:51 var
+R1938:1939 R'_Axioms <> R' defax
+R1951:1954 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R1945:1949 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R1944:1944 R'_Axioms <> x:50 var
+R1950:1950 R'_Axioms <> y:51 var
+R1956:1960 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R1955:1955 R'_Axioms <> y:51 var
+R1961:1961 R'_Axioms <> x:50 var
+ax 1971:1979 <> Plus_Leq'
+R1983:1986 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R1992:1993 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 1987:1987 <> x:53
+binder 1989:1989 <> y:54
+binder 1991:1991 <> z:55
+R2002:2005 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1995:1999 MK_1_6 <> :::x_'∈'_x not
+R1994:1994 R'_Axioms <> x:53 var
+R2000:2001 R'_Axioms <> R' defax
+R2014:2017 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2007:2011 MK_1_6 <> :::x_'∈'_x not
+R2006:2006 R'_Axioms <> y:54 var
+R2012:2013 R'_Axioms <> R' defax
+R2026:2029 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2019:2023 MK_1_6 <> :::x_'∈'_x not
+R2018:2018 R'_Axioms <> z:55 var
+R2024:2025 R'_Axioms <> R' defax
+R2037:2042 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2031:2035 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R2030:2030 R'_Axioms <> x:53 var
+R2036:2036 R'_Axioms <> y:54 var
+R2048:2052 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R2044:2046 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2043:2043 R'_Axioms <> x:53 var
+R2047:2047 R'_Axioms <> z:55 var
+R2054:2056 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2053:2053 R'_Axioms <> y:54 var
+R2057:2057 R'_Axioms <> z:55 var
+ax 2067:2075 <> Mult_Leq'
+R2079:2082 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R2086:2087 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 2083:2083 <> x:57
+binder 2085:2085 <> y:58
+R2096:2099 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2089:2093 MK_1_6 <> :::x_'∈'_x not
+R2088:2088 R'_Axioms <> x:57 var
+R2094:2095 R'_Axioms <> R' defax
+R2108:2111 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2101:2105 MK_1_6 <> :::x_'∈'_x not
+R2100:2100 R'_Axioms <> y:58 var
+R2106:2107 R'_Axioms <> R' defax
+R2120:2123 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2114:2118 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R2112:2113 R'_Axioms <> ::R'_scope:'0'_'''' not
+R2119:2119 R'_Axioms <> x:57 var
+R2132:2137 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2126:2130 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R2124:2125 R'_Axioms <> ::R'_scope:'0'_'''' not
+R2131:2131 R'_Axioms <> y:58 var
+R2140:2144 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R2138:2139 R'_Axioms <> ::R'_scope:'0'_'''' not
+R2146:2149 R'_Axioms <> ::R'_scope:x_'·'_x not
+R2145:2145 R'_Axioms <> x:57 var
+R2150:2150 R'_Axioms <> y:58 var
+ax 2182:2194 <> Completeness'
+R2198:2201 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R2205:2206 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 2202:2202 <> X:60
+binder 2204:2204 <> Y:61
+R2215:2218 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2208:2212 MK_1_6 <> :::x_'⊂'_x not
+R2207:2207 R'_Axioms <> X:60 var
+R2213:2214 R'_Axioms <> R' defax
+R2227:2230 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2220:2224 MK_1_6 <> :::x_'⊂'_x not
+R2219:2219 R'_Axioms <> Y:61 var
+R2225:2226 R'_Axioms <> R' defax
+R2238:2241 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2232:2235 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R2231:2231 R'_Axioms <> X:60 var
+R2236:2237 MK_1_6 <> Φ def
+R2249:2254 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2243:2246 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R2242:2242 R'_Axioms <> Y:61 var
+R2247:2248 MK_1_6 <> Φ def
+R2255:2255 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2294:2298 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2256:2259 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R2263:2264 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 2260:2260 <> x:62
+binder 2262:2262 <> y:63
+R2272:2275 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2266:2270 MK_1_6 <> :::x_'∈'_x not
+R2265:2265 R'_Axioms <> x:62 var
+R2271:2271 R'_Axioms <> X:60 var
+R2283:2286 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2277:2281 MK_1_6 <> :::x_'∈'_x not
+R2276:2276 R'_Axioms <> y:63 var
+R2282:2282 R'_Axioms <> Y:61 var
+R2288:2292 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R2287:2287 R'_Axioms <> x:62 var
+R2293:2293 R'_Axioms <> y:63 var
+R2299:2302 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R2304:2305 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 2303:2303 <> c:64
+R2314:2322 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R2374:2374 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R2307:2311 MK_1_6 <> :::x_'∈'_x not
+R2306:2306 R'_Axioms <> c:64 var
+R2312:2313 R'_Axioms <> R' defax
+R2323:2326 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R2330:2331 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 2327:2327 <> x:65
+binder 2329:2329 <> y:66
+R2339:2342 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2333:2337 MK_1_6 <> :::x_'∈'_x not
+R2332:2332 R'_Axioms <> x:65 var
+R2338:2338 R'_Axioms <> X:60 var
+R2350:2354 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2373:2373 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2344:2348 MK_1_6 <> :::x_'∈'_x not
+R2343:2343 R'_Axioms <> y:66 var
+R2349:2349 R'_Axioms <> Y:61 var
+R2362:2365 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R2356:2360 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R2355:2355 R'_Axioms <> x:65 var
+R2361:2361 R'_Axioms <> c:64 var
+R2367:2371 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R2366:2366 R'_Axioms <> c:64 var
+R2372:2372 R'_Axioms <> y:66 var
+prf 2423:2431 <> Plus_Co1'
+R2435:2438 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R2442:2443 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 2439:2439 <> x:68
+binder 2441:2441 <> y:69
+R2452:2455 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2445:2449 MK_1_6 <> :::x_'∈'_x not
+R2444:2444 R'_Axioms <> x:68 var
+R2450:2451 R'_Axioms <> R' defax
+R2464:2467 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2457:2461 MK_1_6 <> :::x_'∈'_x not
+R2456:2456 R'_Axioms <> y:69 var
+R2462:2463 R'_Axioms <> R' defax
+R2477:2480 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2473:2475 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R2469:2471 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2468:2468 R'_Axioms <> x:68 var
+R2472:2472 R'_Axioms <> y:69 var
+R2476:2476 R'_Axioms <> x:68 var
+R2482:2484 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R2481:2481 R'_Axioms <> y:69 var
+R2485:2486 R'_Axioms <> ::R'_scope:'0'_'''' not
+R2517:2526 R'_Axioms <> zero_in_R' prfax
+R2517:2526 R'_Axioms <> zero_in_R' prfax
+R2535:2538 Pre_MK_Logic Logic NNPP thm
+R2535:2538 Pre_MK_Logic Logic NNPP thm
+R2572:2578 R'_Axioms <> Leq_P4' prfax
+R2582:2583 R'_Axioms <> ::R'_scope:'0'_'''' not
+R2627:2634 R'_Axioms <> Plus_P2' prfax
+R2685:2692 R'_Axioms <> Plus_P4' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2714:2721 R'_Axioms <> Plus_P1' prfax
+R2572:2578 R'_Axioms <> Leq_P4' prfax
+R2582:2583 R'_Axioms <> ::R'_scope:'0'_'''' not
+R2627:2634 R'_Axioms <> Plus_P2' prfax
+R2627:2634 R'_Axioms <> Plus_P2' prfax
+R2685:2692 R'_Axioms <> Plus_P4' prfax
+R2685:2692 R'_Axioms <> Plus_P4' prfax
+R2685:2692 R'_Axioms <> Plus_P4' prfax
+R2685:2692 R'_Axioms <> Plus_P4' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2714:2721 R'_Axioms <> Plus_P1' prfax
+R2714:2721 R'_Axioms <> Plus_P1' prfax
+R2714:2721 R'_Axioms <> Plus_P1' prfax
+R2685:2692 R'_Axioms <> Plus_P4' prfax
+R2685:2692 R'_Axioms <> Plus_P4' prfax
+R2685:2692 R'_Axioms <> Plus_P4' prfax
+R2685:2692 R'_Axioms <> Plus_P4' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2702:2709 R'_Axioms <> Plus_P3' prfax
+R2714:2721 R'_Axioms <> Plus_P1' prfax
+R2714:2721 R'_Axioms <> Plus_P1' prfax
+R2714:2721 R'_Axioms <> Plus_P1' prfax
+prf 2752:2760 <> Plus_Co2'
+R2764:2767 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R2769:2770 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 2768:2768 <> x:70
+R2779:2783 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2823:2823 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2772:2776 MK_1_6 <> :::x_'∈'_x not
+R2771:2771 R'_Axioms <> x:70 var
+R2777:2778 R'_Axioms <> R' defax
+R2784:2792 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+R2795:2796 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+binder 2793:2794 <> x0:71
+R2806:2811 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R2799:2803 MK_1_6 <> :::x_'∈'_x not
+R2797:2798 R'_Axioms <> x0:71 var
+R2804:2805 R'_Axioms <> R' defax
+R2818:2820 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R2813:2815 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2812:2812 R'_Axioms <> x:70 var
+R2816:2817 R'_Axioms <> x0:71 var
+R2821:2822 R'_Axioms <> ::R'_scope:'0'_'''' not
+R2863:2870 R'_Axioms <> Plus_P2' prfax
+R2863:2870 R'_Axioms <> Plus_P2' prfax
+R2972:2974 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R2959:2959 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2966:2969 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2961:2963 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2975:2975 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2982:2985 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2977:2979 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2972:2974 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R2959:2959 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2966:2969 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2961:2963 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2975:2975 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2982:2985 R'_Axioms <> ::R'_scope:x_'+'_x not
+R2977:2979 R'_Axioms <> ::R'_scope:x_'+'_x not
+R3006:3013 R'_Axioms <> Plus_P3' prfax
+R3016:3023 R'_Axioms <> Plus_P4' prfax
+R3032:3039 R'_Axioms <> Plus_P3' prfax
+R3006:3013 R'_Axioms <> Plus_P3' prfax
+R3006:3013 R'_Axioms <> Plus_P3' prfax
+R3006:3013 R'_Axioms <> Plus_P3' prfax
+R3006:3013 R'_Axioms <> Plus_P3' prfax
+R3006:3013 R'_Axioms <> Plus_P3' prfax
+R3016:3023 R'_Axioms <> Plus_P4' prfax
+R3016:3023 R'_Axioms <> Plus_P4' prfax
+R3016:3023 R'_Axioms <> Plus_P4' prfax
+R3016:3023 R'_Axioms <> Plus_P4' prfax
+R3032:3039 R'_Axioms <> Plus_P3' prfax
+R3032:3039 R'_Axioms <> Plus_P3' prfax
+R3032:3039 R'_Axioms <> Plus_P3' prfax
+R3032:3039 R'_Axioms <> Plus_P3' prfax
+R3032:3039 R'_Axioms <> Plus_P3' prfax
+R3066:3073 R'_Axioms <> Plus_P4' prfax
+R3075:3082 R'_Axioms <> Plus_P1' prfax
+R3084:3091 R'_Axioms <> Plus_P4' prfax
+R3093:3100 R'_Axioms <> Plus_P1' prfax
+R3123:3132 R'_Axioms <> zero_in_R' prfax
+R3066:3073 R'_Axioms <> Plus_P4' prfax
+R3066:3073 R'_Axioms <> Plus_P4' prfax
+R3066:3073 R'_Axioms <> Plus_P4' prfax
+R3066:3073 R'_Axioms <> Plus_P4' prfax
+R3075:3082 R'_Axioms <> Plus_P1' prfax
+R3075:3082 R'_Axioms <> Plus_P1' prfax
+R3075:3082 R'_Axioms <> Plus_P1' prfax
+R3084:3091 R'_Axioms <> Plus_P4' prfax
+R3084:3091 R'_Axioms <> Plus_P4' prfax
+R3084:3091 R'_Axioms <> Plus_P4' prfax
+R3084:3091 R'_Axioms <> Plus_P4' prfax
+R3093:3100 R'_Axioms <> Plus_P1' prfax
+R3093:3100 R'_Axioms <> Plus_P1' prfax
+R3093:3100 R'_Axioms <> Plus_P1' prfax
+R3123:3132 R'_Axioms <> zero_in_R' prfax
+R3123:3132 R'_Axioms <> zero_in_R' prfax
+R3160:3163 MK_1_6 <> :::'∩'_x not
+R3198:3198 MK_1_6 <> :::'∩'_x not
+R3164:3166 MK_1_6 <> :::'\{'_x_'\}' not
+R3195:3197 MK_1_6 <> :::'\{'_x_'\}' not
+R3167:3169 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R3171:3172 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 3170:3170 <> u:72
+R3181:3184 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R3174:3178 MK_1_6 <> :::x_'∈'_x not
+R3173:3173 R'_Axioms <> u:72 var
+R3179:3180 R'_Axioms <> R' defax
+R3190:3192 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3186:3188 R'_Axioms <> ::R'_scope:x_'+'_x not
+R3185:3185 R'_Axioms <> u:72 var
+R3193:3194 R'_Axioms <> ::R'_scope:'0'_'''' not
+not 3150:3150 <> ::R'_scope:'-'_x
+R3236:3239 R'_Axioms <> ::R'_scope:x_'+'_x not
+R3242:3242 R'_Axioms <> ::R'_scope:x_'+'_x not
+R3240:3240 R'_Axioms <> ::R'_scope:'-'_x not
+not 3223:3223 <> ::R'_scope:x_'-'_x
+prf 3268:3276 <> Plus_Co3'
+R3280:3283 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R3289:3290 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 3284:3284 <> a:73
+binder 3286:3286 <> x:74
+binder 3288:3288 <> b:75
+R3299:3302 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3292:3296 MK_1_6 <> :::x_'∈'_x not
+R3291:3291 R'_Axioms <> a:73 var
+R3297:3298 R'_Axioms <> R' defax
+R3311:3314 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3304:3308 MK_1_6 <> :::x_'∈'_x not
+R3303:3303 R'_Axioms <> x:74 var
+R3309:3310 R'_Axioms <> R' defax
+R3323:3328 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3316:3320 MK_1_6 <> :::x_'∈'_x not
+R3315:3315 R'_Axioms <> b:75 var
+R3321:3322 R'_Axioms <> R' defax
+R3338:3341 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3334:3336 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3330:3332 R'_Axioms <> ::R'_scope:x_'+'_x not
+R3329:3329 R'_Axioms <> a:73 var
+R3333:3333 R'_Axioms <> x:74 var
+R3337:3337 R'_Axioms <> b:75 var
+R3343:3345 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3342:3342 R'_Axioms <> x:74 var
+R3347:3350 R'_Axioms <> ::R'_scope:x_'+'_x not
+R3353:3353 R'_Axioms <> ::R'_scope:x_'+'_x not
+R3346:3346 R'_Axioms <> b:75 var
+R3351:3351 R'_Axioms <> ::R'_scope:'-'_x not
+R3352:3352 R'_Axioms <> a:73 var
+prf 3412:3420 <> Mult_Co1'
+R3424:3427 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R3431:3432 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 3428:3428 <> x:76
+binder 3430:3430 <> y:77
+R3450:3453 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3434:3439 MK_1_6 <> :::x_'∈'_x not
+R3449:3449 MK_1_6 <> :::x_'∈'_x not
+R3433:3433 R'_Axioms <> x:76 var
+R3442:3444 MK_1_6 <> :::x_'~'_x not
+R3440:3441 R'_Axioms <> R' defax
+R3445:3445 MK_1_6 <> :::'['_x_']' not
+R3448:3448 MK_1_6 <> :::'['_x_']' not
+R3446:3447 R'_Axioms <> ::R'_scope:'0'_'''' not
+R3462:3465 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3455:3459 MK_1_6 <> :::x_'∈'_x not
+R3454:3454 R'_Axioms <> y:77 var
+R3460:3461 R'_Axioms <> R' defax
+R3476:3481 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3472:3474 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3467:3470 R'_Axioms <> ::R'_scope:x_'·'_x not
+R3466:3466 R'_Axioms <> x:76 var
+R3471:3471 R'_Axioms <> y:77 var
+R3475:3475 R'_Axioms <> x:76 var
+R3483:3485 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3482:3482 R'_Axioms <> y:77 var
+R3486:3487 R'_Axioms <> ::R'_scope:'1'_'''' not
+prf 3511:3519 <> Mult_Co2'
+R3523:3526 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R3528:3529 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 3527:3527 <> x:78
+R3547:3553 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3601:3601 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3531:3536 MK_1_6 <> :::x_'∈'_x not
+R3546:3546 MK_1_6 <> :::x_'∈'_x not
+R3530:3530 R'_Axioms <> x:78 var
+R3539:3541 MK_1_6 <> :::x_'~'_x not
+R3537:3538 R'_Axioms <> R' defax
+R3542:3542 MK_1_6 <> :::'['_x_']' not
+R3545:3545 MK_1_6 <> :::'['_x_']' not
+R3543:3544 R'_Axioms <> ::R'_scope:'0'_'''' not
+R3554:3562 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+R3565:3566 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+binder 3563:3564 <> x0:79
+R3585:3588 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R3569:3574 MK_1_6 <> :::x_'∈'_x not
+R3584:3584 MK_1_6 <> :::x_'∈'_x not
+R3567:3568 R'_Axioms <> x0:79 var
+R3577:3579 MK_1_6 <> :::x_'~'_x not
+R3575:3576 R'_Axioms <> R' defax
+R3580:3580 MK_1_6 <> :::'['_x_']' not
+R3583:3583 MK_1_6 <> :::'['_x_']' not
+R3581:3582 R'_Axioms <> ::R'_scope:'0'_'''' not
+R3596:3598 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3590:3593 R'_Axioms <> ::R'_scope:x_'·'_x not
+R3589:3589 R'_Axioms <> x:78 var
+R3594:3595 R'_Axioms <> x0:79 var
+R3599:3600 R'_Axioms <> ::R'_scope:'1'_'''' not
+R3636:3639 MK_1_6 <> :::'∩'_x not
+R3684:3684 MK_1_6 <> :::'∩'_x not
+R3640:3642 MK_1_6 <> :::'\{'_x_'\}' not
+R3681:3683 MK_1_6 <> :::'\{'_x_'\}' not
+R3643:3645 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R3647:3648 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 3646:3646 <> u:80
+R3666:3669 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R3650:3655 MK_1_6 <> :::x_'∈'_x not
+R3665:3665 MK_1_6 <> :::x_'∈'_x not
+R3649:3649 R'_Axioms <> u:80 var
+R3658:3660 MK_1_6 <> :::x_'~'_x not
+R3656:3657 R'_Axioms <> R' defax
+R3661:3661 MK_1_6 <> :::'['_x_']' not
+R3664:3664 MK_1_6 <> :::'['_x_']' not
+R3662:3663 R'_Axioms <> ::R'_scope:'0'_'''' not
+R3676:3678 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3671:3674 R'_Axioms <> ::R'_scope:x_'·'_x not
+R3670:3670 R'_Axioms <> u:80 var
+R3679:3680 R'_Axioms <> ::R'_scope:'1'_'''' not
+not 3624:3624 <> ::R'_scope:x_'⁻'
+R3737:3741 R'_Axioms <> ::R'_scope:x_'·'_x not
+R3746:3746 R'_Axioms <> ::R'_scope:x_'·'_x not
+R3743:3745 R'_Axioms <> ::R'_scope:x_'⁻' not
+not 3724:3724 <> ::R'_scope:x_'/'_x
+prf 3772:3780 <> Mult_Co3'
+R3784:3787 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R3793:3794 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 3788:3788 <> a:81
+binder 3790:3790 <> x:82
+binder 3792:3792 <> b:83
+R3812:3815 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3796:3801 MK_1_6 <> :::x_'∈'_x not
+R3811:3811 MK_1_6 <> :::x_'∈'_x not
+R3795:3795 R'_Axioms <> a:81 var
+R3804:3806 MK_1_6 <> :::x_'~'_x not
+R3802:3803 R'_Axioms <> R' defax
+R3807:3807 MK_1_6 <> :::'['_x_']' not
+R3810:3810 MK_1_6 <> :::'['_x_']' not
+R3808:3809 R'_Axioms <> ::R'_scope:'0'_'''' not
+R3824:3827 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3817:3821 MK_1_6 <> :::x_'∈'_x not
+R3816:3816 R'_Axioms <> x:82 var
+R3822:3823 R'_Axioms <> R' defax
+R3836:3841 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3829:3833 MK_1_6 <> :::x_'∈'_x not
+R3828:3828 R'_Axioms <> b:83 var
+R3834:3835 R'_Axioms <> R' defax
+R3852:3855 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3848:3850 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3843:3846 R'_Axioms <> ::R'_scope:x_'·'_x not
+R3842:3842 R'_Axioms <> a:81 var
+R3847:3847 R'_Axioms <> x:82 var
+R3851:3851 R'_Axioms <> b:83 var
+R3857:3859 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3856:3856 R'_Axioms <> x:82 var
+R3861:3865 R'_Axioms <> ::R'_scope:x_'·'_x not
+R3870:3870 R'_Axioms <> ::R'_scope:x_'·'_x not
+R3860:3860 R'_Axioms <> b:83 var
+R3867:3869 R'_Axioms <> ::R'_scope:x_'⁻' not
+R3866:3866 R'_Axioms <> a:81 var
+prf 3944:3956 <> PlusMult_Co1'
+R3960:3963 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R3965:3966 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 3964:3964 <> x:84
+R3975:3978 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3968:3972 MK_1_6 <> :::x_'∈'_x not
+R3967:3967 R'_Axioms <> x:84 var
+R3973:3974 R'_Axioms <> R' defax
+R3991:3994 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R3986:3988 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3980:3983 R'_Axioms <> ::R'_scope:x_'·'_x not
+R3979:3979 R'_Axioms <> x:84 var
+R3984:3985 R'_Axioms <> ::R'_scope:'0'_'''' not
+R3989:3990 R'_Axioms <> ::R'_scope:'0'_'''' not
+R4002:4004 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R3997:4000 R'_Axioms <> ::R'_scope:x_'·'_x not
+R3995:3996 R'_Axioms <> ::R'_scope:'0'_'''' not
+R4001:4001 R'_Axioms <> x:84 var
+R4005:4006 R'_Axioms <> ::R'_scope:'0'_'''' not
+prf 4030:4042 <> PlusMult_Co2'
+R4046:4049 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R4053:4054 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 4050:4050 <> x:85
+binder 4052:4052 <> y:86
+R4063:4066 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4056:4060 MK_1_6 <> :::x_'∈'_x not
+R4055:4055 R'_Axioms <> x:85 var
+R4061:4062 R'_Axioms <> R' defax
+R4075:4078 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4068:4072 MK_1_6 <> :::x_'∈'_x not
+R4067:4067 R'_Axioms <> y:86 var
+R4073:4074 R'_Axioms <> R' defax
+R4090:4095 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4085:4087 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R4080:4083 R'_Axioms <> ::R'_scope:x_'·'_x not
+R4079:4079 R'_Axioms <> x:85 var
+R4084:4084 R'_Axioms <> y:86 var
+R4088:4089 R'_Axioms <> ::R'_scope:'0'_'''' not
+R4102:4105 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R4097:4099 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R4096:4096 R'_Axioms <> x:85 var
+R4100:4101 R'_Axioms <> ::R'_scope:'0'_'''' not
+R4107:4109 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R4106:4106 R'_Axioms <> y:86 var
+R4110:4111 R'_Axioms <> ::R'_scope:'0'_'''' not
+prf 4135:4147 <> PlusMult_Co3'
+R4151:4154 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R4156:4157 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 4155:4155 <> x:87
+R4166:4169 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4159:4163 MK_1_6 <> :::x_'∈'_x not
+R4158:4158 R'_Axioms <> x:87 var
+R4164:4165 R'_Axioms <> R' defax
+R4172:4174 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R4170:4170 R'_Axioms <> ::R'_scope:'-'_x not
+R4171:4171 R'_Axioms <> x:87 var
+R4175:4175 R'_Axioms <> ::R'_scope:x_'·'_x not
+R4181:4185 R'_Axioms <> ::R'_scope:x_'·'_x not
+R4176:4177 R'_Axioms <> ::R'_scope:'-'_x not
+R4180:4180 R'_Axioms <> ::R'_scope:'-'_x not
+R4178:4179 R'_Axioms <> ::R'_scope:'1'_'''' not
+R4186:4186 R'_Axioms <> x:87 var
+prf 4210:4222 <> PlusMult_Co4'
+R4226:4229 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R4231:4232 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 4230:4230 <> x:88
+R4241:4244 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4234:4238 MK_1_6 <> :::x_'∈'_x not
+R4233:4233 R'_Axioms <> x:88 var
+R4239:4240 R'_Axioms <> R' defax
+R4260:4262 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R4245:4245 R'_Axioms <> ::R'_scope:x_'·'_x not
+R4251:4256 R'_Axioms <> ::R'_scope:x_'·'_x not
+R4259:4259 R'_Axioms <> ::R'_scope:x_'·'_x not
+R4246:4247 R'_Axioms <> ::R'_scope:'-'_x not
+R4250:4250 R'_Axioms <> ::R'_scope:'-'_x not
+R4248:4249 R'_Axioms <> ::R'_scope:'1'_'''' not
+R4257:4257 R'_Axioms <> ::R'_scope:'-'_x not
+R4258:4258 R'_Axioms <> x:88 var
+R4263:4263 R'_Axioms <> x:88 var
+prf 4287:4299 <> PlusMult_Co5'
+R4303:4306 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R4308:4309 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 4307:4307 <> x:89
+R4318:4321 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4311:4315 MK_1_6 <> :::x_'∈'_x not
+R4310:4310 R'_Axioms <> x:89 var
+R4316:4317 R'_Axioms <> R' defax
+R4334:4336 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R4322:4322 R'_Axioms <> ::R'_scope:x_'·'_x not
+R4325:4330 R'_Axioms <> ::R'_scope:x_'·'_x not
+R4333:4333 R'_Axioms <> ::R'_scope:x_'·'_x not
+R4323:4323 R'_Axioms <> ::R'_scope:'-'_x not
+R4324:4324 R'_Axioms <> x:89 var
+R4331:4331 R'_Axioms <> ::R'_scope:'-'_x not
+R4332:4332 R'_Axioms <> x:89 var
+R4338:4341 R'_Axioms <> ::R'_scope:x_'·'_x not
+R4337:4337 R'_Axioms <> x:89 var
+R4342:4342 R'_Axioms <> x:89 var
+prf 4366:4378 <> PlusMult_Co6'
+R4382:4385 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R4387:4388 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 4386:4386 <> x:90
+R4406:4410 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R4390:4395 MK_1_6 <> :::x_'∈'_x not
+R4405:4405 MK_1_6 <> :::x_'∈'_x not
+R4389:4389 R'_Axioms <> x:90 var
+R4398:4400 MK_1_6 <> :::x_'~'_x not
+R4396:4397 R'_Axioms <> R' defax
+R4401:4401 MK_1_6 <> :::'['_x_']' not
+R4404:4404 MK_1_6 <> :::'['_x_']' not
+R4402:4403 R'_Axioms <> ::R'_scope:'0'_'''' not
+R4411:4411 MK_1_6 <> :::x_'∈'_x not
+R4416:4422 MK_1_6 <> :::x_'∈'_x not
+R4432:4432 MK_1_6 <> :::x_'∈'_x not
+R4413:4415 R'_Axioms <> ::R'_scope:x_'⁻' not
+R4412:4412 R'_Axioms <> x:90 var
+R4425:4427 MK_1_6 <> :::x_'~'_x not
+R4423:4424 R'_Axioms <> R' defax
+R4428:4428 MK_1_6 <> :::'['_x_']' not
+R4431:4431 MK_1_6 <> :::'['_x_']' not
+R4429:4430 R'_Axioms <> ::R'_scope:'0'_'''' not
+def 4457:4459 <> lt'
+binder 4461:4461 <> x:91
+binder 4463:4463 <> y:92
+R4475:4478 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R4469:4473 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R4468:4468 R'_Axioms <> x:91 var
+R4474:4474 R'_Axioms <> y:92 var
+R4480:4483 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R4479:4479 R'_Axioms <> x:91 var
+R4484:4484 R'_Axioms <> y:92 var
+R4509:4511 R'_Axioms <> lt' def
+not 4497:4497 <> ::R'_scope:x_'<'_x
+prf 4570:4579 <> Order_Co1'
+R4583:4586 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R4590:4591 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 4587:4587 <> x:93
+binder 4589:4589 <> y:94
+R4600:4603 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4593:4597 MK_1_6 <> :::x_'∈'_x not
+R4592:4592 R'_Axioms <> x:93 var
+R4598:4599 R'_Axioms <> R' defax
+R4612:4617 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4605:4609 MK_1_6 <> :::x_'∈'_x not
+R4604:4604 R'_Axioms <> y:94 var
+R4610:4611 R'_Axioms <> R' defax
+R4623:4626 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R4619:4621 R'_Axioms <> ::R'_scope:x_'<'_x not
+R4618:4618 R'_Axioms <> x:93 var
+R4622:4622 R'_Axioms <> y:94 var
+R4632:4635 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R4628:4630 R'_Axioms <> ::R'_scope:x_'<'_x not
+R4627:4627 R'_Axioms <> y:94 var
+R4631:4631 R'_Axioms <> x:93 var
+R4637:4639 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R4636:4636 R'_Axioms <> x:93 var
+R4640:4640 R'_Axioms <> y:94 var
+prf 4664:4673 <> Order_Co2'
+R4677:4680 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R4686:4687 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 4681:4681 <> x:95
+binder 4683:4683 <> y:96
+binder 4685:4685 <> z:97
+R4696:4699 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4689:4693 MK_1_6 <> :::x_'∈'_x not
+R4688:4688 R'_Axioms <> x:95 var
+R4694:4695 R'_Axioms <> R' defax
+R4708:4711 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4701:4705 MK_1_6 <> :::x_'∈'_x not
+R4700:4700 R'_Axioms <> y:96 var
+R4706:4707 R'_Axioms <> R' defax
+R4720:4725 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4713:4717 MK_1_6 <> :::x_'∈'_x not
+R4712:4712 R'_Axioms <> z:97 var
+R4718:4719 R'_Axioms <> R' defax
+R4766:4769 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4726:4726 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R4743:4748 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R4765:4765 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R4732:4735 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R4728:4730 R'_Axioms <> ::R'_scope:x_'<'_x not
+R4727:4727 R'_Axioms <> x:95 var
+R4731:4731 R'_Axioms <> y:96 var
+R4737:4741 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R4736:4736 R'_Axioms <> y:96 var
+R4742:4742 R'_Axioms <> z:97 var
+R4756:4759 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R4750:4754 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R4749:4749 R'_Axioms <> x:95 var
+R4755:4755 R'_Axioms <> y:96 var
+R4761:4763 R'_Axioms <> ::R'_scope:x_'<'_x not
+R4760:4760 R'_Axioms <> y:96 var
+R4764:4764 R'_Axioms <> z:97 var
+R4771:4773 R'_Axioms <> ::R'_scope:x_'<'_x not
+R4770:4770 R'_Axioms <> x:95 var
+R4774:4774 R'_Axioms <> z:97 var
+prf 4854:4865 <> OrderPM_Co1'
+R4869:4872 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R4878:4879 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 4873:4873 <> x:98
+binder 4875:4875 <> y:99
+binder 4877:4877 <> z:100
+R4888:4891 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4881:4885 MK_1_6 <> :::x_'∈'_x not
+R4880:4880 R'_Axioms <> x:98 var
+R4886:4887 R'_Axioms <> R' defax
+R4900:4903 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4893:4897 MK_1_6 <> :::x_'∈'_x not
+R4892:4892 R'_Axioms <> y:99 var
+R4898:4899 R'_Axioms <> R' defax
+R4912:4917 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4905:4909 MK_1_6 <> :::x_'∈'_x not
+R4904:4904 R'_Axioms <> z:100 var
+R4910:4911 R'_Axioms <> R' defax
+R4923:4926 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4919:4921 R'_Axioms <> ::R'_scope:x_'<'_x not
+R4918:4918 R'_Axioms <> x:98 var
+R4922:4922 R'_Axioms <> y:99 var
+R4932:4934 R'_Axioms <> ::R'_scope:x_'<'_x not
+R4928:4930 R'_Axioms <> ::R'_scope:x_'+'_x not
+R4927:4927 R'_Axioms <> x:98 var
+R4931:4931 R'_Axioms <> z:100 var
+R4936:4938 R'_Axioms <> ::R'_scope:x_'+'_x not
+R4935:4935 R'_Axioms <> y:99 var
+R4939:4939 R'_Axioms <> z:100 var
+prf 4963:4974 <> OrderPM_Co2'
+R4978:4981 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R4983:4984 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 4982:4982 <> x:101
+R4993:4996 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4986:4990 MK_1_6 <> :::x_'∈'_x not
+R4985:4985 R'_Axioms <> x:101 var
+R4991:4992 R'_Axioms <> R' defax
+R5003:5006 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4999:5001 R'_Axioms <> ::R'_scope:x_'<'_x not
+R4997:4998 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5002:5002 R'_Axioms <> x:101 var
+R5007:5007 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5010:5013 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5008:5008 R'_Axioms <> ::R'_scope:'-'_x not
+R5009:5009 R'_Axioms <> x:101 var
+R5014:5015 R'_Axioms <> ::R'_scope:'0'_'''' not
+prf 5039:5050 <> OrderPM_Co3'
+R5054:5057 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R5065:5066 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 5058:5058 <> x:102
+binder 5060:5060 <> y:103
+binder 5062:5062 <> z:104
+binder 5064:5064 <> w:105
+R5075:5078 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5068:5072 MK_1_6 <> :::x_'∈'_x not
+R5067:5067 R'_Axioms <> x:102 var
+R5073:5074 R'_Axioms <> R' defax
+R5087:5090 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5080:5084 MK_1_6 <> :::x_'∈'_x not
+R5079:5079 R'_Axioms <> y:103 var
+R5085:5086 R'_Axioms <> R' defax
+R5099:5104 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5092:5096 MK_1_6 <> :::x_'∈'_x not
+R5091:5091 R'_Axioms <> z:104 var
+R5097:5098 R'_Axioms <> R' defax
+R5113:5116 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5106:5110 MK_1_6 <> :::x_'∈'_x not
+R5105:5105 R'_Axioms <> w:105 var
+R5111:5112 R'_Axioms <> R' defax
+R5124:5127 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5118:5122 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R5117:5117 R'_Axioms <> x:102 var
+R5123:5123 R'_Axioms <> y:103 var
+R5135:5138 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5129:5133 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R5128:5128 R'_Axioms <> z:104 var
+R5134:5134 R'_Axioms <> w:105 var
+R5144:5148 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R5140:5142 R'_Axioms <> ::R'_scope:x_'+'_x not
+R5139:5139 R'_Axioms <> x:102 var
+R5143:5143 R'_Axioms <> z:104 var
+R5150:5152 R'_Axioms <> ::R'_scope:x_'+'_x not
+R5149:5149 R'_Axioms <> y:103 var
+R5153:5153 R'_Axioms <> w:105 var
+prf 5177:5188 <> OrderPM_Co4'
+R5192:5195 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R5203:5204 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 5196:5196 <> x:106
+binder 5198:5198 <> y:107
+binder 5200:5200 <> z:108
+binder 5202:5202 <> w:109
+R5213:5216 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5206:5210 MK_1_6 <> :::x_'∈'_x not
+R5205:5205 R'_Axioms <> x:106 var
+R5211:5212 R'_Axioms <> R' defax
+R5225:5228 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5218:5222 MK_1_6 <> :::x_'∈'_x not
+R5217:5217 R'_Axioms <> y:107 var
+R5223:5224 R'_Axioms <> R' defax
+R5237:5242 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5230:5234 MK_1_6 <> :::x_'∈'_x not
+R5229:5229 R'_Axioms <> z:108 var
+R5235:5236 R'_Axioms <> R' defax
+R5251:5254 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5244:5248 MK_1_6 <> :::x_'∈'_x not
+R5243:5243 R'_Axioms <> w:109 var
+R5249:5250 R'_Axioms <> R' defax
+R5262:5265 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5256:5260 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R5255:5255 R'_Axioms <> x:106 var
+R5261:5261 R'_Axioms <> y:107 var
+R5271:5274 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5267:5269 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5266:5266 R'_Axioms <> z:108 var
+R5270:5270 R'_Axioms <> w:109 var
+R5280:5282 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5276:5278 R'_Axioms <> ::R'_scope:x_'+'_x not
+R5275:5275 R'_Axioms <> x:106 var
+R5279:5279 R'_Axioms <> z:108 var
+R5284:5286 R'_Axioms <> ::R'_scope:x_'+'_x not
+R5283:5283 R'_Axioms <> y:107 var
+R5287:5287 R'_Axioms <> w:109 var
+prf 5311:5322 <> OrderPM_Co5'
+R5326:5329 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R5333:5334 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 5330:5330 <> x:110
+binder 5332:5332 <> y:111
+R5343:5346 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5336:5340 MK_1_6 <> :::x_'∈'_x not
+R5335:5335 R'_Axioms <> x:110 var
+R5341:5342 R'_Axioms <> R' defax
+R5355:5360 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5348:5352 MK_1_6 <> :::x_'∈'_x not
+R5347:5347 R'_Axioms <> y:111 var
+R5353:5354 R'_Axioms <> R' defax
+R5401:5404 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5361:5361 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R5378:5383 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R5400:5400 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R5368:5371 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R5364:5366 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5362:5363 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5367:5367 R'_Axioms <> x:110 var
+R5374:5376 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5372:5373 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5377:5377 R'_Axioms <> y:111 var
+R5390:5393 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R5385:5387 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5384:5384 R'_Axioms <> x:110 var
+R5388:5389 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5395:5397 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5394:5394 R'_Axioms <> y:111 var
+R5398:5399 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5407:5409 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5405:5406 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5411:5414 R'_Axioms <> ::R'_scope:x_'·'_x not
+R5410:5410 R'_Axioms <> x:110 var
+R5415:5415 R'_Axioms <> y:111 var
+prf 5439:5450 <> OrderPM_Co6'
+R5454:5457 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R5461:5462 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 5458:5458 <> x:112
+binder 5460:5460 <> y:113
+R5471:5474 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5464:5468 MK_1_6 <> :::x_'∈'_x not
+R5463:5463 R'_Axioms <> x:112 var
+R5469:5470 R'_Axioms <> R' defax
+R5483:5486 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5476:5480 MK_1_6 <> :::x_'∈'_x not
+R5475:5475 R'_Axioms <> y:113 var
+R5481:5482 R'_Axioms <> R' defax
+R5493:5496 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5488:5490 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5487:5487 R'_Axioms <> x:112 var
+R5491:5492 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5503:5508 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5499:5501 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5497:5498 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5502:5502 R'_Axioms <> y:113 var
+R5515:5517 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5510:5513 R'_Axioms <> ::R'_scope:x_'·'_x not
+R5509:5509 R'_Axioms <> x:112 var
+R5514:5514 R'_Axioms <> y:113 var
+R5518:5519 R'_Axioms <> ::R'_scope:'0'_'''' not
+prf 5543:5554 <> OrderPM_Co7'
+R5558:5561 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R5567:5568 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 5562:5562 <> x:114
+binder 5564:5564 <> y:115
+binder 5566:5566 <> z:116
+R5577:5580 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5570:5574 MK_1_6 <> :::x_'∈'_x not
+R5569:5569 R'_Axioms <> x:114 var
+R5575:5576 R'_Axioms <> R' defax
+R5589:5592 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5582:5586 MK_1_6 <> :::x_'∈'_x not
+R5581:5581 R'_Axioms <> y:115 var
+R5587:5588 R'_Axioms <> R' defax
+R5601:5606 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5594:5598 MK_1_6 <> :::x_'∈'_x not
+R5593:5593 R'_Axioms <> z:116 var
+R5599:5600 R'_Axioms <> R' defax
+R5612:5615 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5608:5610 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5607:5607 R'_Axioms <> x:114 var
+R5611:5611 R'_Axioms <> y:115 var
+R5622:5625 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5618:5620 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5616:5617 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5621:5621 R'_Axioms <> z:116 var
+R5632:5634 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5627:5630 R'_Axioms <> ::R'_scope:x_'·'_x not
+R5626:5626 R'_Axioms <> x:114 var
+R5631:5631 R'_Axioms <> z:116 var
+R5636:5639 R'_Axioms <> ::R'_scope:x_'·'_x not
+R5635:5635 R'_Axioms <> y:115 var
+R5640:5640 R'_Axioms <> z:116 var
+prf 5664:5675 <> OrderPM_Co8'
+R5679:5682 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R5688:5689 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 5683:5683 <> x:117
+binder 5685:5685 <> y:118
+binder 5687:5687 <> z:119
+R5698:5701 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5691:5695 MK_1_6 <> :::x_'∈'_x not
+R5690:5690 R'_Axioms <> x:117 var
+R5696:5697 R'_Axioms <> R' defax
+R5710:5713 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5703:5707 MK_1_6 <> :::x_'∈'_x not
+R5702:5702 R'_Axioms <> y:118 var
+R5708:5709 R'_Axioms <> R' defax
+R5722:5727 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5715:5719 MK_1_6 <> :::x_'∈'_x not
+R5714:5714 R'_Axioms <> z:119 var
+R5720:5721 R'_Axioms <> R' defax
+R5733:5736 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5729:5731 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5728:5728 R'_Axioms <> x:117 var
+R5732:5732 R'_Axioms <> y:118 var
+R5743:5746 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5738:5740 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5737:5737 R'_Axioms <> z:119 var
+R5741:5742 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5753:5755 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5748:5751 R'_Axioms <> ::R'_scope:x_'·'_x not
+R5747:5747 R'_Axioms <> y:118 var
+R5752:5752 R'_Axioms <> z:119 var
+R5757:5760 R'_Axioms <> ::R'_scope:x_'·'_x not
+R5756:5756 R'_Axioms <> x:117 var
+R5761:5761 R'_Axioms <> z:119 var
+prf 5785:5796 <> OrderPM_Co9'
+R5802:5804 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5800:5801 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5805:5806 R'_Axioms <> ::R'_scope:'1'_'''' not
+R5829:5838 R'_Axioms <> zero_in_R' prfax
+R5829:5838 R'_Axioms <> zero_in_R' prfax
+R5852:5860 R'_Axioms <> one_in_R' prfax
+R5852:5860 R'_Axioms <> one_in_R' prfax
+R5871:5875 MK_1_6 <> MKT4' thm
+R5871:5875 MK_1_6 <> MKT4' thm
+R5896:5902 MK_1_6 <> AxiomII prfax
+R5896:5902 MK_1_6 <> AxiomII prfax
+R5940:5949 R'_Axioms <> Order_Co1' prfax
+R5951:5952 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5954:5955 R'_Axioms <> ::R'_scope:'1'_'''' not
+R5940:5949 R'_Axioms <> Order_Co1' prfax
+R5951:5952 R'_Axioms <> ::R'_scope:'0'_'''' not
+R5954:5955 R'_Axioms <> ::R'_scope:'1'_'''' not
+R5997:5999 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5995:5996 R'_Axioms <> ::R'_scope:'0'_'''' not
+R6002:6005 R'_Axioms <> ::R'_scope:x_'·'_x not
+R6000:6001 R'_Axioms <> ::R'_scope:'1'_'''' not
+R6006:6007 R'_Axioms <> ::R'_scope:'1'_'''' not
+R5997:5999 R'_Axioms <> ::R'_scope:x_'<'_x not
+R5995:5996 R'_Axioms <> ::R'_scope:'0'_'''' not
+R6002:6005 R'_Axioms <> ::R'_scope:x_'·'_x not
+R6000:6001 R'_Axioms <> ::R'_scope:'1'_'''' not
+R6006:6007 R'_Axioms <> ::R'_scope:'1'_'''' not
+R6019:6030 R'_Axioms <> OrderPM_Co5' prfax
+R6019:6030 R'_Axioms <> OrderPM_Co5' prfax
+R6053:6060 R'_Axioms <> Mult_P1' prfax
+R6053:6060 R'_Axioms <> Mult_P1' prfax
+R6053:6060 R'_Axioms <> Mult_P1' prfax
+R6053:6060 R'_Axioms <> Mult_P1' prfax
+R6094:6098 MK_1_6 <> MKT41 thm
+R6094:6098 MK_1_6 <> MKT41 thm
+prf 6124:6136 <> OrderPM_Co10'
+R6140:6143 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R6145:6146 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 6144:6144 <> x:120
+R6155:6158 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6148:6152 MK_1_6 <> :::x_'∈'_x not
+R6147:6147 R'_Axioms <> x:120 var
+R6153:6154 R'_Axioms <> R' defax
+R6165:6168 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6161:6163 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6159:6160 R'_Axioms <> ::R'_scope:'0'_'''' not
+R6164:6164 R'_Axioms <> x:120 var
+R6171:6174 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6179:6179 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6169:6170 R'_Axioms <> ::R'_scope:'0'_'''' not
+R6176:6178 R'_Axioms <> ::R'_scope:x_'⁻' not
+R6175:6175 R'_Axioms <> x:120 var
+prf 6203:6215 <> OrderPM_Co11'
+R6219:6222 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R6226:6227 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 6223:6223 <> x:121
+binder 6225:6225 <> y:122
+R6236:6239 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6229:6233 MK_1_6 <> :::x_'∈'_x not
+R6228:6228 R'_Axioms <> x:121 var
+R6234:6235 R'_Axioms <> R' defax
+R6248:6251 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6241:6245 MK_1_6 <> :::x_'∈'_x not
+R6240:6240 R'_Axioms <> y:122 var
+R6246:6247 R'_Axioms <> R' defax
+R6258:6263 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6254:6256 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6252:6253 R'_Axioms <> ::R'_scope:'0'_'''' not
+R6257:6257 R'_Axioms <> x:121 var
+R6269:6272 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6265:6267 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6264:6264 R'_Axioms <> x:121 var
+R6268:6268 R'_Axioms <> y:122 var
+R6284:6287 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6275:6278 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6283:6283 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6273:6274 R'_Axioms <> ::R'_scope:'0'_'''' not
+R6280:6282 R'_Axioms <> ::R'_scope:x_'⁻' not
+R6279:6279 R'_Axioms <> y:122 var
+R6288:6288 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6293:6297 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6302:6302 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6290:6292 R'_Axioms <> ::R'_scope:x_'⁻' not
+R6289:6289 R'_Axioms <> y:122 var
+R6299:6301 R'_Axioms <> ::R'_scope:x_'⁻' not
+R6298:6298 R'_Axioms <> x:121 var
+def 6373:6378 <> Upper'
+binder 6380:6380 <> X:123
+binder 6382:6382 <> c:124
+R6395:6398 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6388:6392 MK_1_6 <> :::x_'⊂'_x not
+R6387:6387 R'_Axioms <> X:123 var
+R6393:6394 R'_Axioms <> R' defax
+R6407:6411 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6437:6437 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6400:6404 MK_1_6 <> :::x_'∈'_x not
+R6399:6399 R'_Axioms <> c:124 var
+R6405:6406 R'_Axioms <> R' defax
+R6412:6415 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R6417:6418 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 6416:6416 <> x:125
+R6426:6429 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6420:6424 MK_1_6 <> :::x_'∈'_x not
+R6419:6419 R'_Axioms <> x:125 var
+R6425:6425 R'_Axioms <> X:123 var
+R6431:6435 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R6430:6430 R'_Axioms <> x:125 var
+R6436:6436 R'_Axioms <> c:124 var
+def 6452:6457 <> Lower'
+binder 6459:6459 <> X:126
+binder 6461:6461 <> c:127
+R6474:6477 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6467:6471 MK_1_6 <> :::x_'⊂'_x not
+R6466:6466 R'_Axioms <> X:126 var
+R6472:6473 R'_Axioms <> R' defax
+R6486:6490 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6516:6516 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6479:6483 MK_1_6 <> :::x_'∈'_x not
+R6478:6478 R'_Axioms <> c:127 var
+R6484:6485 R'_Axioms <> R' defax
+R6491:6494 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R6496:6497 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 6495:6495 <> x:128
+R6505:6508 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6499:6503 MK_1_6 <> :::x_'∈'_x not
+R6498:6498 R'_Axioms <> x:128 var
+R6504:6504 R'_Axioms <> X:126 var
+R6510:6514 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R6509:6509 R'_Axioms <> c:127 var
+R6515:6515 R'_Axioms <> x:128 var
+def 6531:6538 <> Bounded'
+binder 6540:6540 <> X:129
+R6545:6548 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R6554:6555 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 6549:6550 <> c1:130
+binder 6552:6553 <> c2:131
+R6567:6570 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6556:6561 R'_Axioms <> Upper' def
+R6563:6563 R'_Axioms <> X:129 var
+R6565:6566 R'_Axioms <> c1:130 var
+R6571:6576 R'_Axioms <> Lower' def
+R6578:6578 R'_Axioms <> X:129 var
+R6580:6581 R'_Axioms <> c2:131 var
+def 6596:6599 <> Max'
+binder 6601:6601 <> X:132
+binder 6603:6603 <> c:133
+R6616:6619 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6609:6613 MK_1_6 <> :::x_'⊂'_x not
+R6608:6608 R'_Axioms <> X:132 var
+R6614:6615 R'_Axioms <> R' defax
+R6627:6631 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6657:6657 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6621:6625 MK_1_6 <> :::x_'∈'_x not
+R6620:6620 R'_Axioms <> c:133 var
+R6626:6626 R'_Axioms <> X:132 var
+R6632:6635 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R6637:6638 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 6636:6636 <> x:134
+R6646:6649 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6640:6644 MK_1_6 <> :::x_'∈'_x not
+R6639:6639 R'_Axioms <> x:134 var
+R6645:6645 R'_Axioms <> X:132 var
+R6651:6655 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R6650:6650 R'_Axioms <> x:134 var
+R6656:6656 R'_Axioms <> c:133 var
+def 6672:6675 <> Min'
+binder 6677:6677 <> X:135
+binder 6679:6679 <> c:136
+R6692:6695 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6685:6689 MK_1_6 <> :::x_'⊂'_x not
+R6684:6684 R'_Axioms <> X:135 var
+R6690:6691 R'_Axioms <> R' defax
+R6703:6707 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6733:6733 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6697:6701 MK_1_6 <> :::x_'∈'_x not
+R6696:6696 R'_Axioms <> c:136 var
+R6702:6702 R'_Axioms <> X:135 var
+R6708:6711 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R6713:6714 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 6712:6712 <> x:137
+R6722:6725 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6716:6720 MK_1_6 <> :::x_'∈'_x not
+R6715:6715 R'_Axioms <> x:137 var
+R6721:6721 R'_Axioms <> X:135 var
+R6727:6731 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R6726:6726 R'_Axioms <> c:136 var
+R6732:6732 R'_Axioms <> x:137 var
+prf 6747:6760 <> Max_Corollary'
+R6764:6767 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R6775:6776 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 6768:6768 <> X:138
+binder 6770:6771 <> c1:139
+binder 6773:6774 <> c2:140
+R6786:6789 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6777:6780 R'_Axioms <> Max' def
+R6782:6782 R'_Axioms <> X:138 var
+R6784:6785 R'_Axioms <> c1:139 var
+R6799:6802 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6790:6793 R'_Axioms <> Max' def
+R6795:6795 R'_Axioms <> X:138 var
+R6797:6798 R'_Axioms <> c2:140 var
+R6805:6807 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R6803:6804 R'_Axioms <> c1:139 var
+R6808:6809 R'_Axioms <> c2:140 var
+prf 6833:6847 <> Min'_Corollary'
+R6851:6854 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R6862:6863 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 6855:6855 <> X:141
+binder 6857:6858 <> c1:142
+binder 6860:6861 <> c2:143
+R6873:6876 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6864:6867 R'_Axioms <> Min' def
+R6869:6869 R'_Axioms <> X:141 var
+R6871:6872 R'_Axioms <> c1:142 var
+R6886:6889 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6877:6880 R'_Axioms <> Min' def
+R6882:6882 R'_Axioms <> X:141 var
+R6884:6885 R'_Axioms <> c2:143 var
+R6892:6894 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R6890:6891 R'_Axioms <> c1:142 var
+R6895:6896 R'_Axioms <> c2:143 var
+def 6921:6925 <> Sup1'
+binder 6927:6927 <> X:144
+binder 6929:6929 <> s:145
+R6944:6948 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R7011:7011 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6934:6939 R'_Axioms <> Upper' def
+R6941:6941 R'_Axioms <> X:144 var
+R6943:6943 R'_Axioms <> s:145 var
+R6949:6952 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R6955:6956 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 6953:6954 <> s1:146
+R6966:6969 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6959:6963 MK_1_6 <> :::x_'∈'_x not
+R6957:6958 R'_Axioms <> s1:146 var
+R6964:6965 R'_Axioms <> R' defax
+R6976:6982 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7010:7010 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6972:6974 R'_Axioms <> ::R'_scope:x_'<'_x not
+R6970:6971 R'_Axioms <> s1:146 var
+R6975:6975 R'_Axioms <> s:145 var
+R6983:6986 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R6989:6990 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 6987:6988 <> x1:147
+R6999:7002 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R6993:6997 MK_1_6 <> :::x_'∈'_x not
+R6991:6992 R'_Axioms <> x1:147 var
+R6998:6998 R'_Axioms <> X:144 var
+R7005:7007 R'_Axioms <> ::R'_scope:x_'<'_x not
+R7003:7004 R'_Axioms <> s1:146 var
+R7008:7009 R'_Axioms <> x1:147 var
+def 7026:7030 <> Sup2'
+binder 7032:7032 <> X:148
+binder 7034:7034 <> s:149
+R7039:7042 R'_Axioms <> Min' def
+R7045:7047 MK_1_6 <> :::'\{'_x_'\}' not
+R7064:7066 MK_1_6 <> :::'\{'_x_'\}' not
+R7048:7050 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R7052:7053 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 7051:7051 <> u:150
+R7054:7059 R'_Axioms <> Upper' def
+R7061:7061 R'_Axioms <> X:148 var
+R7063:7063 R'_Axioms <> u:150 var
+R7069:7069 R'_Axioms <> s:149 var
+prf 7083:7096 <> Sup_Corollary'
+R7100:7103 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R7107:7108 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 7104:7104 <> X:151
+binder 7106:7106 <> s:152
+R7118:7122 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R7109:7113 R'_Axioms <> Sup1' def
+R7115:7115 R'_Axioms <> X:151 var
+R7117:7117 R'_Axioms <> s:152 var
+R7123:7127 R'_Axioms <> Sup2' def
+R7129:7129 R'_Axioms <> X:151 var
+R7131:7131 R'_Axioms <> s:152 var
+def 7156:7160 <> Inf1'
+binder 7162:7162 <> X:153
+binder 7164:7164 <> i:154
+R7179:7183 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R7246:7246 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R7169:7174 R'_Axioms <> Lower' def
+R7176:7176 R'_Axioms <> X:153 var
+R7178:7178 R'_Axioms <> i:154 var
+R7184:7187 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R7190:7191 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 7188:7189 <> i1:155
+R7201:7204 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7194:7198 MK_1_6 <> :::x_'∈'_x not
+R7192:7193 R'_Axioms <> i1:155 var
+R7199:7200 R'_Axioms <> R' defax
+R7211:7217 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7245:7245 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7206:7208 R'_Axioms <> ::R'_scope:x_'<'_x not
+R7205:7205 R'_Axioms <> i:154 var
+R7209:7210 R'_Axioms <> i1:155 var
+R7218:7221 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R7224:7225 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 7222:7223 <> x1:156
+R7234:7237 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R7228:7232 MK_1_6 <> :::x_'∈'_x not
+R7226:7227 R'_Axioms <> x1:156 var
+R7233:7233 R'_Axioms <> X:153 var
+R7240:7242 R'_Axioms <> ::R'_scope:x_'<'_x not
+R7238:7239 R'_Axioms <> x1:156 var
+R7243:7244 R'_Axioms <> i1:155 var
+def 7261:7265 <> Inf2'
+binder 7267:7267 <> X:157
+binder 7269:7269 <> i:158
+R7274:7277 R'_Axioms <> Max' def
+R7280:7282 MK_1_6 <> :::'\{'_x_'\}' not
+R7299:7301 MK_1_6 <> :::'\{'_x_'\}' not
+R7283:7285 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R7287:7288 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 7286:7286 <> u:159
+R7289:7294 R'_Axioms <> Lower' def
+R7296:7296 R'_Axioms <> X:157 var
+R7298:7298 R'_Axioms <> u:159 var
+R7304:7304 R'_Axioms <> i:158 var
+prf 7318:7331 <> Inf_Corollary'
+R7335:7338 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R7342:7343 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 7339:7339 <> X:160
+binder 7341:7341 <> i:161
+R7353:7357 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R7344:7348 R'_Axioms <> Inf1' def
+R7350:7350 R'_Axioms <> X:160 var
+R7352:7352 R'_Axioms <> i:161 var
+R7358:7362 R'_Axioms <> Inf2' def
+R7364:7364 R'_Axioms <> X:160 var
+R7366:7366 R'_Axioms <> i:161 var
+prf 7388:7392 <> SupT'
+R7396:7399 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R7401:7402 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 7400:7400 <> X:162
+R7411:7414 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7404:7408 MK_1_6 <> :::x_'⊂'_x not
+R7403:7403 R'_Axioms <> X:162 var
+R7409:7410 R'_Axioms <> R' defax
+R7422:7425 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7416:7419 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R7415:7415 R'_Axioms <> X:162 var
+R7420:7421 MK_1_6 <> Φ def
+R7426:7429 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R7431:7432 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 7430:7430 <> c:163
+R7443:7448 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7433:7438 R'_Axioms <> Upper' def
+R7440:7440 R'_Axioms <> X:162 var
+R7442:7442 R'_Axioms <> c:163 var
+R7449:7457 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+R7459:7460 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+binder 7458:7458 <> s:164
+R7461:7465 R'_Axioms <> Sup1' def
+R7467:7467 R'_Axioms <> X:162 var
+R7469:7469 R'_Axioms <> s:164 var
+prf 7491:7495 <> InfT'
+R7499:7502 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R7504:7505 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 7503:7503 <> X:165
+R7514:7517 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7507:7511 MK_1_6 <> :::x_'⊂'_x not
+R7506:7506 R'_Axioms <> X:165 var
+R7512:7513 R'_Axioms <> R' defax
+R7525:7528 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7519:7522 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R7518:7518 R'_Axioms <> X:165 var
+R7523:7524 MK_1_6 <> Φ def
+R7529:7532 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R7534:7535 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 7533:7533 <> c:166
+R7546:7551 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7536:7541 R'_Axioms <> Lower' def
+R7543:7543 R'_Axioms <> X:165 var
+R7545:7545 R'_Axioms <> c:166 var
+R7552:7560 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+R7562:7563 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+binder 7561:7561 <> i:167
+R7564:7568 R'_Axioms <> Inf1' def
+R7570:7570 R'_Axioms <> X:165 var
+R7572:7572 R'_Axioms <> i:167 var
+def 7650:7656 <> IndSet'
+binder 7658:7658 <> X:168
+R7671:7675 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R7708:7708 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R7664:7668 MK_1_6 <> :::x_'⊂'_x not
+R7663:7663 R'_Axioms <> X:168 var
+R7669:7670 R'_Axioms <> R' defax
+R7676:7679 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R7681:7682 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 7680:7680 <> x:169
+R7690:7693 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7684:7688 MK_1_6 <> :::x_'∈'_x not
+R7683:7683 R'_Axioms <> x:169 var
+R7689:7689 R'_Axioms <> X:168 var
+R7694:7694 MK_1_6 <> :::x_'∈'_x not
+R7701:7706 MK_1_6 <> :::x_'∈'_x not
+R7696:7698 R'_Axioms <> ::R'_scope:x_'+'_x not
+R7695:7695 R'_Axioms <> x:169 var
+R7699:7700 R'_Axioms <> ::R'_scope:'1'_'''' not
+R7707:7707 R'_Axioms <> X:168 var
+prf 7724:7733 <> IndSet_P1'
+R7737:7740 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R7742:7743 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 7741:7741 <> X:170
+R7751:7754 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7745:7748 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R7744:7744 R'_Axioms <> X:170 var
+R7749:7750 MK_1_6 <> Φ def
+R7755:7755 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7783:7789 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7756:7759 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R7761:7762 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 7760:7760 <> x:171
+R7770:7773 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7764:7768 MK_1_6 <> :::x_'∈'_x not
+R7763:7763 R'_Axioms <> x:171 var
+R7769:7769 R'_Axioms <> X:170 var
+R7774:7780 R'_Axioms <> IndSet' def
+R7782:7782 R'_Axioms <> x:171 var
+R7790:7796 R'_Axioms <> IndSet' def
+R7799:7801 MK_1_6 <> :::'∩'_x not
+R7802:7802 R'_Axioms <> X:170 var
+def 7847:7848 <> N'
+R7853:7856 MK_1_6 <> :::'∩'_x not
+R7890:7890 MK_1_6 <> :::'∩'_x not
+R7857:7859 MK_1_6 <> :::'\{'_x_'\}' not
+R7887:7889 MK_1_6 <> :::'\{'_x_'\}' not
+R7860:7862 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R7864:7865 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 7863:7863 <> u:172
+R7875:7878 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R7866:7872 R'_Axioms <> IndSet' def
+R7874:7874 R'_Axioms <> u:172 var
+R7881:7885 MK_1_6 <> :::x_'∈'_x not
+R7879:7880 R'_Axioms <> ::R'_scope:'1'_'''' not
+R7886:7886 R'_Axioms <> u:172 var
+prf 7927:7934 <> MathInd'
+R7938:7941 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R7943:7944 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 7942:7942 <> E:173
+R7953:7956 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7946:7950 MK_1_6 <> :::x_'⊂'_x not
+R7945:7945 R'_Axioms <> E:173 var
+R7951:7952 R'_Axioms <> N' def
+R7965:7968 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7959:7963 MK_1_6 <> :::x_'∈'_x not
+R7957:7958 R'_Axioms <> ::R'_scope:'1'_'''' not
+R7964:7964 R'_Axioms <> E:173 var
+R7969:7969 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8004:8008 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7970:7973 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R7975:7976 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 7974:7974 <> x:174
+R7984:7989 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R7978:7982 MK_1_6 <> :::x_'∈'_x not
+R7977:7977 R'_Axioms <> x:174 var
+R7983:7983 R'_Axioms <> E:173 var
+R7990:7990 MK_1_6 <> :::x_'∈'_x not
+R7997:8002 MK_1_6 <> :::x_'∈'_x not
+R7992:7994 R'_Axioms <> ::R'_scope:x_'+'_x not
+R7991:7991 R'_Axioms <> x:174 var
+R7995:7996 R'_Axioms <> ::R'_scope:'1'_'''' not
+R8003:8003 R'_Axioms <> E:173 var
+R8010:8012 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R8009:8009 R'_Axioms <> E:173 var
+R8013:8014 R'_Axioms <> N' def
+prf 8065:8071 <> Nat_P1'
+R8075:8078 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R8082:8083 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 8079:8079 <> m:175
+binder 8081:8081 <> n:176
+R8092:8095 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8085:8089 MK_1_6 <> :::x_'∈'_x not
+R8084:8084 R'_Axioms <> m:175 var
+R8090:8091 R'_Axioms <> N' def
+R8104:8109 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8097:8101 MK_1_6 <> :::x_'∈'_x not
+R8096:8096 R'_Axioms <> n:176 var
+R8102:8103 R'_Axioms <> N' def
+R8124:8127 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R8110:8110 MK_1_6 <> :::x_'∈'_x not
+R8116:8121 MK_1_6 <> :::x_'∈'_x not
+R8112:8114 R'_Axioms <> ::R'_scope:x_'+'_x not
+R8111:8111 R'_Axioms <> m:175 var
+R8115:8115 R'_Axioms <> n:176 var
+R8122:8123 R'_Axioms <> N' def
+R8128:8128 MK_1_6 <> :::x_'∈'_x not
+R8135:8140 MK_1_6 <> :::x_'∈'_x not
+R8130:8133 R'_Axioms <> ::R'_scope:x_'·'_x not
+R8129:8129 R'_Axioms <> m:175 var
+R8134:8134 R'_Axioms <> n:176 var
+R8141:8142 R'_Axioms <> N' def
+prf 8168:8174 <> Nat_P2'
+R8178:8181 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R8183:8184 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 8182:8182 <> n:177
+R8193:8196 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8186:8190 MK_1_6 <> :::x_'∈'_x not
+R8185:8185 R'_Axioms <> n:177 var
+R8191:8192 R'_Axioms <> N' def
+R8204:8207 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8198:8201 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R8197:8197 R'_Axioms <> n:177 var
+R8202:8203 R'_Axioms <> ::R'_scope:'1'_'''' not
+R8208:8208 MK_1_6 <> :::x_'∈'_x not
+R8215:8220 MK_1_6 <> :::x_'∈'_x not
+R8210:8212 R'_Axioms <> ::R'_scope:x_'-'_x not
+R8209:8209 R'_Axioms <> n:177 var
+R8213:8214 R'_Axioms <> ::R'_scope:'1'_'''' not
+R8221:8222 R'_Axioms <> N' def
+prf 8287:8293 <> Nat_P3'
+R8297:8300 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R8302:8303 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 8301:8301 <> n:178
+R8312:8317 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8305:8309 MK_1_6 <> :::x_'∈'_x not
+R8304:8304 R'_Axioms <> n:178 var
+R8310:8311 R'_Axioms <> N' def
+R8318:8321 R'_Axioms <> Min' def
+R8324:8326 MK_1_6 <> :::'\{'_x_'\}' not
+R8350:8352 MK_1_6 <> :::'\{'_x_'\}' not
+R8327:8329 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R8331:8332 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 8330:8330 <> u:179
+R8341:8344 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R8334:8338 MK_1_6 <> :::x_'∈'_x not
+R8333:8333 R'_Axioms <> u:179 var
+R8339:8340 R'_Axioms <> N' def
+R8346:8348 R'_Axioms <> ::R'_scope:x_'<'_x not
+R8345:8345 R'_Axioms <> n:178 var
+R8349:8349 R'_Axioms <> u:179 var
+R8357:8359 R'_Axioms <> ::R'_scope:x_'+'_x not
+R8356:8356 R'_Axioms <> n:178 var
+R8360:8361 R'_Axioms <> ::R'_scope:'1'_'''' not
+prf 8388:8394 <> Nat_P4'
+R8398:8401 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R8405:8406 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 8402:8402 <> m:180
+binder 8404:8404 <> n:181
+R8415:8418 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8408:8412 MK_1_6 <> :::x_'∈'_x not
+R8407:8407 R'_Axioms <> m:180 var
+R8413:8414 R'_Axioms <> N' def
+R8427:8430 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8420:8424 MK_1_6 <> :::x_'∈'_x not
+R8419:8419 R'_Axioms <> n:181 var
+R8425:8426 R'_Axioms <> N' def
+R8436:8439 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8432:8434 R'_Axioms <> ::R'_scope:x_'<'_x not
+R8431:8431 R'_Axioms <> n:181 var
+R8435:8435 R'_Axioms <> m:180 var
+R8440:8440 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R8447:8452 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R8442:8444 R'_Axioms <> ::R'_scope:x_'+'_x not
+R8441:8441 R'_Axioms <> n:181 var
+R8445:8446 R'_Axioms <> ::R'_scope:'1'_'''' not
+R8453:8453 R'_Axioms <> m:180 var
+prf 8479:8485 <> Nat_P5'
+R8489:8492 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R8494:8495 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 8493:8493 <> n:182
+R8504:8509 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8497:8501 MK_1_6 <> :::x_'∈'_x not
+R8496:8496 R'_Axioms <> n:182 var
+R8502:8503 R'_Axioms <> N' def
+R8510:8512 Coq.Init.Logic <> ::type_scope:'~'_x not
+R8553:8553 Coq.Init.Logic <> ::type_scope:'~'_x not
+R8513:8516 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R8518:8519 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 8517:8517 <> x:183
+R8528:8531 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R8521:8525 MK_1_6 <> :::x_'∈'_x not
+R8520:8520 R'_Axioms <> x:183 var
+R8526:8527 R'_Axioms <> N' def
+R8537:8540 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R8533:8535 R'_Axioms <> ::R'_scope:x_'<'_x not
+R8532:8532 R'_Axioms <> n:182 var
+R8536:8536 R'_Axioms <> x:183 var
+R8542:8545 R'_Axioms <> ::R'_scope:x_'<'_x not
+R8552:8552 R'_Axioms <> ::R'_scope:x_'<'_x not
+R8541:8541 R'_Axioms <> x:183 var
+R8547:8549 R'_Axioms <> ::R'_scope:x_'+'_x not
+R8546:8546 R'_Axioms <> n:182 var
+R8550:8551 R'_Axioms <> ::R'_scope:'1'_'''' not
+prf 8611:8617 <> Nat_P6'
+R8621:8624 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R8626:8627 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 8625:8625 <> n:184
+R8636:8639 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8629:8633 MK_1_6 <> :::x_'∈'_x not
+R8628:8628 R'_Axioms <> n:184 var
+R8634:8635 R'_Axioms <> N' def
+R8647:8652 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8641:8644 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R8640:8640 R'_Axioms <> n:184 var
+R8645:8646 R'_Axioms <> ::R'_scope:'1'_'''' not
+R8653:8655 Coq.Init.Logic <> ::type_scope:'~'_x not
+R8696:8696 Coq.Init.Logic <> ::type_scope:'~'_x not
+R8656:8659 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R8661:8662 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 8660:8660 <> x:185
+R8671:8674 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R8664:8668 MK_1_6 <> :::x_'∈'_x not
+R8663:8663 R'_Axioms <> x:185 var
+R8669:8670 R'_Axioms <> N' def
+R8687:8690 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R8675:8675 R'_Axioms <> ::R'_scope:x_'<'_x not
+R8682:8685 R'_Axioms <> ::R'_scope:x_'<'_x not
+R8677:8679 R'_Axioms <> ::R'_scope:x_'-'_x not
+R8676:8676 R'_Axioms <> n:184 var
+R8680:8681 R'_Axioms <> ::R'_scope:'1'_'''' not
+R8686:8686 R'_Axioms <> x:185 var
+R8692:8694 R'_Axioms <> ::R'_scope:x_'<'_x not
+R8691:8691 R'_Axioms <> n:184 var
+R8695:8695 R'_Axioms <> x:185 var
+prf 8722:8728 <> Nat_P7'
+R8732:8735 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R8737:8738 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 8736:8736 <> E:186
+R8747:8750 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8740:8744 MK_1_6 <> :::x_'⊂'_x not
+R8739:8739 R'_Axioms <> E:186 var
+R8745:8746 R'_Axioms <> N' def
+R8758:8761 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8752:8755 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R8751:8751 R'_Axioms <> E:186 var
+R8756:8757 MK_1_6 <> Φ def
+R8762:8765 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R8767:8768 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 8766:8766 <> n:187
+R8769:8772 R'_Axioms <> Min' def
+R8774:8774 R'_Axioms <> E:186 var
+R8776:8776 R'_Axioms <> n:187 var
+def 8823:8824 <> Z'
+R8831:8835 MK_1_6 <> :::x_'∪'_x not
+R8829:8830 R'_Axioms <> N' def
+R8859:8863 MK_1_6 <> :::x_'∪'_x not
+R8836:8838 MK_1_6 <> :::'\{'_x_'\}' not
+R8856:8858 MK_1_6 <> :::'\{'_x_'\}' not
+R8839:8841 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R8843:8844 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 8842:8842 <> u:188
+R8845:8845 MK_1_6 <> :::x_'∈'_x not
+R8848:8853 MK_1_6 <> :::x_'∈'_x not
+R8846:8846 R'_Axioms <> ::R'_scope:'-'_x not
+R8847:8847 R'_Axioms <> u:188 var
+R8854:8855 R'_Axioms <> N' def
+R8864:8864 MK_1_6 <> :::'['_x_']' not
+R8867:8867 MK_1_6 <> :::'['_x_']' not
+R8865:8866 R'_Axioms <> ::R'_scope:'0'_'''' not
+prf 8903:8914 <> Z_Corollary'
+R8927:8930 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R8920:8924 MK_1_6 <> :::x_'⊂'_x not
+R8918:8919 R'_Axioms <> N' def
+R8925:8926 R'_Axioms <> Z' def
+R8933:8937 MK_1_6 <> :::x_'⊂'_x not
+R8931:8932 R'_Axioms <> Z' def
+R8938:8939 R'_Axioms <> R' defax
+prf 8965:8971 <> Int_P1'
+R8975:8978 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R8982:8983 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 8979:8979 <> m:189
+binder 8981:8981 <> n:190
+R8992:8995 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8985:8989 MK_1_6 <> :::x_'∈'_x not
+R8984:8984 R'_Axioms <> m:189 var
+R8990:8991 R'_Axioms <> Z' def
+R9004:9009 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8997:9001 MK_1_6 <> :::x_'∈'_x not
+R8996:8996 R'_Axioms <> n:190 var
+R9002:9003 R'_Axioms <> Z' def
+R9024:9027 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9010:9010 MK_1_6 <> :::x_'∈'_x not
+R9016:9021 MK_1_6 <> :::x_'∈'_x not
+R9012:9014 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9011:9011 R'_Axioms <> m:189 var
+R9015:9015 R'_Axioms <> n:190 var
+R9022:9023 R'_Axioms <> Z' def
+R9028:9028 MK_1_6 <> :::x_'∈'_x not
+R9035:9040 MK_1_6 <> :::x_'∈'_x not
+R9030:9033 R'_Axioms <> ::R'_scope:x_'·'_x not
+R9029:9029 R'_Axioms <> m:189 var
+R9034:9034 R'_Axioms <> n:190 var
+R9041:9042 R'_Axioms <> Z' def
+prf 9068:9074 <> Int_P2'
+R9078:9081 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R9083:9084 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 9082:9082 <> n:191
+R9093:9096 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9086:9090 MK_1_6 <> :::x_'∈'_x not
+R9085:9085 R'_Axioms <> n:191 var
+R9091:9092 R'_Axioms <> Z' def
+R9107:9110 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9103:9105 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9098:9100 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9097:9097 R'_Axioms <> n:191 var
+R9101:9102 R'_Axioms <> ::R'_scope:'0'_'''' not
+R9106:9106 R'_Axioms <> n:191 var
+R9117:9119 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9113:9115 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9111:9112 R'_Axioms <> ::R'_scope:'0'_'''' not
+R9116:9116 R'_Axioms <> n:191 var
+R9120:9120 R'_Axioms <> n:191 var
+prf 9146:9152 <> Int_P3'
+R9156:9159 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R9161:9162 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 9160:9160 <> n:192
+R9171:9174 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9164:9168 MK_1_6 <> :::x_'∈'_x not
+R9163:9163 R'_Axioms <> n:192 var
+R9169:9170 R'_Axioms <> Z' def
+R9186:9189 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9175:9175 MK_1_6 <> :::x_'∈'_x not
+R9178:9183 MK_1_6 <> :::x_'∈'_x not
+R9176:9176 R'_Axioms <> ::R'_scope:'-'_x not
+R9177:9177 R'_Axioms <> n:192 var
+R9184:9185 R'_Axioms <> Z' def
+R9203:9208 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9198:9200 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9191:9194 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9197:9197 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9190:9190 R'_Axioms <> n:192 var
+R9195:9195 R'_Axioms <> ::R'_scope:'-'_x not
+R9196:9196 R'_Axioms <> n:192 var
+R9201:9202 R'_Axioms <> ::R'_scope:'0'_'''' not
+R9217:9219 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9209:9209 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9212:9215 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9210:9210 R'_Axioms <> ::R'_scope:'-'_x not
+R9211:9211 R'_Axioms <> n:192 var
+R9216:9216 R'_Axioms <> n:192 var
+R9220:9221 R'_Axioms <> ::R'_scope:'0'_'''' not
+prf 9247:9253 <> Int_P4'
+R9257:9260 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R9266:9267 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 9261:9261 <> m:193
+binder 9263:9263 <> n:194
+binder 9265:9265 <> k:195
+R9276:9279 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9269:9273 MK_1_6 <> :::x_'∈'_x not
+R9268:9268 R'_Axioms <> m:193 var
+R9274:9275 R'_Axioms <> Z' def
+R9288:9291 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9281:9285 MK_1_6 <> :::x_'∈'_x not
+R9280:9280 R'_Axioms <> n:194 var
+R9286:9287 R'_Axioms <> Z' def
+R9300:9305 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9293:9297 MK_1_6 <> :::x_'∈'_x not
+R9292:9292 R'_Axioms <> k:195 var
+R9298:9299 R'_Axioms <> Z' def
+R9317:9319 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9307:9310 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9316:9316 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9306:9306 R'_Axioms <> m:193 var
+R9312:9314 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9311:9311 R'_Axioms <> n:194 var
+R9315:9315 R'_Axioms <> k:195 var
+R9320:9320 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9326:9329 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9322:9324 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9321:9321 R'_Axioms <> m:193 var
+R9325:9325 R'_Axioms <> n:194 var
+R9330:9330 R'_Axioms <> k:195 var
+prf 9356:9362 <> Int_P5'
+R9366:9369 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R9373:9374 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 9370:9370 <> m:196
+binder 9372:9372 <> n:197
+R9383:9386 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9376:9380 MK_1_6 <> :::x_'∈'_x not
+R9375:9375 R'_Axioms <> m:196 var
+R9381:9382 R'_Axioms <> Z' def
+R9395:9398 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9388:9392 MK_1_6 <> :::x_'∈'_x not
+R9387:9387 R'_Axioms <> n:197 var
+R9393:9394 R'_Axioms <> Z' def
+R9404:9406 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9400:9402 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9399:9399 R'_Axioms <> m:196 var
+R9403:9403 R'_Axioms <> n:197 var
+R9408:9410 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9407:9407 R'_Axioms <> n:197 var
+R9411:9411 R'_Axioms <> m:196 var
+def 9461:9462 <> Q'
+R9467:9469 MK_1_6 <> :::'\{'_x_'\}' not
+R9529:9531 MK_1_6 <> :::'\{'_x_'\}' not
+R9470:9472 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R9474:9475 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 9473:9473 <> u:198
+R9476:9479 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R9483:9484 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 9480:9480 <> m:199
+binder 9482:9482 <> n:200
+R9493:9496 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9486:9490 MK_1_6 <> :::x_'∈'_x not
+R9485:9485 R'_Axioms <> m:199 var
+R9491:9492 R'_Axioms <> Z' def
+R9514:9519 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9498:9503 MK_1_6 <> :::x_'∈'_x not
+R9513:9513 MK_1_6 <> :::x_'∈'_x not
+R9497:9497 R'_Axioms <> n:200 var
+R9506:9508 MK_1_6 <> :::x_'~'_x not
+R9504:9505 R'_Axioms <> Z' def
+R9509:9509 MK_1_6 <> :::'['_x_']' not
+R9512:9512 MK_1_6 <> :::'['_x_']' not
+R9510:9511 R'_Axioms <> ::R'_scope:'0'_'''' not
+R9521:9523 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9520:9520 R'_Axioms <> u:198 var
+R9525:9527 R'_Axioms <> ::R'_scope:x_'/'_x not
+R9524:9524 R'_Axioms <> m:199 var
+R9528:9528 R'_Axioms <> n:200 var
+prf 9545:9556 <> Q_Corollary'
+R9569:9572 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9562:9566 MK_1_6 <> :::x_'⊂'_x not
+R9560:9561 R'_Axioms <> Z' def
+R9567:9568 R'_Axioms <> Q' def
+R9575:9579 MK_1_6 <> :::x_'⊂'_x not
+R9573:9574 R'_Axioms <> Q' def
+R9580:9581 R'_Axioms <> R' defax
+prf 9607:9614 <> Frac_P1'
+R9618:9621 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R9627:9628 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 9622:9622 <> m:201
+binder 9624:9624 <> n:202
+binder 9626:9626 <> k:203
+R9637:9640 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9630:9634 MK_1_6 <> :::x_'∈'_x not
+R9629:9629 R'_Axioms <> m:201 var
+R9635:9636 R'_Axioms <> Z' def
+R9658:9663 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9642:9647 MK_1_6 <> :::x_'∈'_x not
+R9657:9657 MK_1_6 <> :::x_'∈'_x not
+R9641:9641 R'_Axioms <> n:202 var
+R9650:9652 MK_1_6 <> :::x_'~'_x not
+R9648:9649 R'_Axioms <> Z' def
+R9653:9653 MK_1_6 <> :::'['_x_']' not
+R9656:9656 MK_1_6 <> :::'['_x_']' not
+R9654:9655 R'_Axioms <> ::R'_scope:'0'_'''' not
+R9681:9684 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9665:9670 MK_1_6 <> :::x_'∈'_x not
+R9680:9680 MK_1_6 <> :::x_'∈'_x not
+R9664:9664 R'_Axioms <> k:203 var
+R9673:9675 MK_1_6 <> :::x_'~'_x not
+R9671:9672 R'_Axioms <> Z' def
+R9676:9676 MK_1_6 <> :::'['_x_']' not
+R9679:9679 MK_1_6 <> :::'['_x_']' not
+R9677:9678 R'_Axioms <> ::R'_scope:'0'_'''' not
+R9690:9692 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9686:9688 R'_Axioms <> ::R'_scope:x_'/'_x not
+R9685:9685 R'_Axioms <> m:201 var
+R9689:9689 R'_Axioms <> n:202 var
+R9693:9693 R'_Axioms <> ::R'_scope:x_'/'_x not
+R9700:9704 R'_Axioms <> ::R'_scope:x_'/'_x not
+R9711:9711 R'_Axioms <> ::R'_scope:x_'/'_x not
+R9695:9698 R'_Axioms <> ::R'_scope:x_'·'_x not
+R9694:9694 R'_Axioms <> m:201 var
+R9699:9699 R'_Axioms <> k:203 var
+R9706:9709 R'_Axioms <> ::R'_scope:x_'·'_x not
+R9705:9705 R'_Axioms <> n:202 var
+R9710:9710 R'_Axioms <> k:203 var
+prf 9737:9743 <> Rat_P1'
+R9747:9750 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R9754:9755 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 9751:9751 <> x:204
+binder 9753:9753 <> y:205
+R9764:9767 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9757:9761 MK_1_6 <> :::x_'∈'_x not
+R9756:9756 R'_Axioms <> x:204 var
+R9762:9763 R'_Axioms <> Q' def
+R9776:9781 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9769:9773 MK_1_6 <> :::x_'∈'_x not
+R9768:9768 R'_Axioms <> y:205 var
+R9774:9775 R'_Axioms <> Q' def
+R9796:9799 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9782:9782 MK_1_6 <> :::x_'∈'_x not
+R9788:9793 MK_1_6 <> :::x_'∈'_x not
+R9784:9786 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9783:9783 R'_Axioms <> x:204 var
+R9787:9787 R'_Axioms <> y:205 var
+R9794:9795 R'_Axioms <> Q' def
+R9800:9800 MK_1_6 <> :::x_'∈'_x not
+R9807:9812 MK_1_6 <> :::x_'∈'_x not
+R9802:9805 R'_Axioms <> ::R'_scope:x_'·'_x not
+R9801:9801 R'_Axioms <> x:204 var
+R9806:9806 R'_Axioms <> y:205 var
+R9813:9814 R'_Axioms <> Q' def
+prf 9840:9846 <> Rat_P2'
+R9850:9853 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R9855:9856 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 9854:9854 <> x:206
+R9865:9868 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9858:9862 MK_1_6 <> :::x_'∈'_x not
+R9857:9857 R'_Axioms <> x:206 var
+R9863:9864 R'_Axioms <> Q' def
+R9879:9882 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9875:9877 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9870:9872 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9869:9869 R'_Axioms <> x:206 var
+R9873:9874 R'_Axioms <> ::R'_scope:'0'_'''' not
+R9878:9878 R'_Axioms <> x:206 var
+R9889:9891 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9885:9887 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9883:9884 R'_Axioms <> ::R'_scope:'0'_'''' not
+R9888:9888 R'_Axioms <> x:206 var
+R9892:9892 R'_Axioms <> x:206 var
+prf 9918:9924 <> Rat_P3'
+R9928:9931 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R9933:9934 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 9932:9932 <> n:207
+R9943:9946 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9936:9940 MK_1_6 <> :::x_'∈'_x not
+R9935:9935 R'_Axioms <> n:207 var
+R9941:9942 R'_Axioms <> Q' def
+R9958:9961 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9947:9947 MK_1_6 <> :::x_'∈'_x not
+R9950:9955 MK_1_6 <> :::x_'∈'_x not
+R9948:9948 R'_Axioms <> ::R'_scope:'-'_x not
+R9949:9949 R'_Axioms <> n:207 var
+R9956:9957 R'_Axioms <> Q' def
+R9975:9980 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R9970:9972 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9963:9966 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9969:9969 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9962:9962 R'_Axioms <> n:207 var
+R9967:9967 R'_Axioms <> ::R'_scope:'-'_x not
+R9968:9968 R'_Axioms <> n:207 var
+R9973:9974 R'_Axioms <> ::R'_scope:'0'_'''' not
+R9989:9991 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9981:9981 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9984:9987 R'_Axioms <> ::R'_scope:x_'+'_x not
+R9982:9982 R'_Axioms <> ::R'_scope:'-'_x not
+R9983:9983 R'_Axioms <> n:207 var
+R9988:9988 R'_Axioms <> n:207 var
+R9992:9993 R'_Axioms <> ::R'_scope:'0'_'''' not
+prf 10019:10025 <> Rat_P4'
+R10029:10032 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R10038:10039 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 10033:10033 <> x:208
+binder 10035:10035 <> y:209
+binder 10037:10037 <> z:210
+R10048:10051 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10041:10045 MK_1_6 <> :::x_'∈'_x not
+R10040:10040 R'_Axioms <> x:208 var
+R10046:10047 R'_Axioms <> Q' def
+R10060:10063 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10053:10057 MK_1_6 <> :::x_'∈'_x not
+R10052:10052 R'_Axioms <> y:209 var
+R10058:10059 R'_Axioms <> Q' def
+R10072:10077 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10065:10069 MK_1_6 <> :::x_'∈'_x not
+R10064:10064 R'_Axioms <> z:210 var
+R10070:10071 R'_Axioms <> Q' def
+R10089:10091 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R10079:10082 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10088:10088 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10078:10078 R'_Axioms <> x:208 var
+R10084:10086 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10083:10083 R'_Axioms <> y:209 var
+R10087:10087 R'_Axioms <> z:210 var
+R10092:10092 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10098:10101 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10094:10096 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10093:10093 R'_Axioms <> x:208 var
+R10097:10097 R'_Axioms <> y:209 var
+R10102:10102 R'_Axioms <> z:210 var
+prf 10128:10134 <> Rat_P5'
+R10138:10141 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R10145:10146 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 10142:10142 <> x:211
+binder 10144:10144 <> y:212
+R10155:10158 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10148:10152 MK_1_6 <> :::x_'∈'_x not
+R10147:10147 R'_Axioms <> x:211 var
+R10153:10154 R'_Axioms <> Q' def
+R10167:10170 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10160:10164 MK_1_6 <> :::x_'∈'_x not
+R10159:10159 R'_Axioms <> y:212 var
+R10165:10166 R'_Axioms <> Q' def
+R10176:10178 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R10172:10174 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10171:10171 R'_Axioms <> x:211 var
+R10175:10175 R'_Axioms <> y:212 var
+R10180:10182 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10179:10179 R'_Axioms <> x:211 var
+R10183:10183 R'_Axioms <> y:212 var
+prf 10209:10215 <> Rat_P6'
+R10219:10222 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R10224:10225 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 10223:10223 <> x:213
+R10234:10237 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10227:10231 MK_1_6 <> :::x_'∈'_x not
+R10226:10226 R'_Axioms <> x:213 var
+R10232:10233 R'_Axioms <> Q' def
+R10249:10252 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R10245:10247 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R10239:10242 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10238:10238 R'_Axioms <> x:213 var
+R10243:10244 R'_Axioms <> ::R'_scope:'1'_'''' not
+R10248:10248 R'_Axioms <> x:213 var
+R10260:10262 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R10255:10258 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10253:10254 R'_Axioms <> ::R'_scope:'1'_'''' not
+R10259:10259 R'_Axioms <> x:213 var
+R10263:10263 R'_Axioms <> x:213 var
+prf 10289:10295 <> Rat_P7'
+R10299:10302 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R10304:10305 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 10303:10303 <> x:214
+R10323:10328 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10307:10312 MK_1_6 <> :::x_'∈'_x not
+R10322:10322 MK_1_6 <> :::x_'∈'_x not
+R10306:10306 R'_Axioms <> x:214 var
+R10315:10317 MK_1_6 <> :::x_'~'_x not
+R10313:10314 R'_Axioms <> Q' def
+R10318:10318 MK_1_6 <> :::'['_x_']' not
+R10321:10321 MK_1_6 <> :::'['_x_']' not
+R10319:10320 R'_Axioms <> ::R'_scope:'0'_'''' not
+R10342:10345 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R10329:10329 MK_1_6 <> :::x_'∈'_x not
+R10334:10339 MK_1_6 <> :::x_'∈'_x not
+R10331:10333 R'_Axioms <> ::R'_scope:x_'⁻' not
+R10330:10330 R'_Axioms <> x:214 var
+R10340:10341 R'_Axioms <> Q' def
+R10357:10359 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R10347:10351 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10356:10356 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10346:10346 R'_Axioms <> x:214 var
+R10353:10355 R'_Axioms <> ::R'_scope:x_'⁻' not
+R10352:10352 R'_Axioms <> x:214 var
+R10360:10361 R'_Axioms <> ::R'_scope:'1'_'''' not
+prf 10387:10393 <> Rat_P8'
+R10397:10400 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R10406:10407 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 10401:10401 <> x:215
+binder 10403:10403 <> y:216
+binder 10405:10405 <> z:217
+R10416:10419 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10409:10413 MK_1_6 <> :::x_'∈'_x not
+R10408:10408 R'_Axioms <> x:215 var
+R10414:10415 R'_Axioms <> Q' def
+R10428:10431 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10421:10425 MK_1_6 <> :::x_'∈'_x not
+R10420:10420 R'_Axioms <> y:216 var
+R10426:10427 R'_Axioms <> Q' def
+R10440:10445 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10433:10437 MK_1_6 <> :::x_'∈'_x not
+R10432:10432 R'_Axioms <> z:217 var
+R10438:10439 R'_Axioms <> Q' def
+R10459:10461 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R10447:10451 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10458:10458 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10446:10446 R'_Axioms <> x:215 var
+R10453:10456 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10452:10452 R'_Axioms <> y:216 var
+R10457:10457 R'_Axioms <> z:217 var
+R10462:10462 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10469:10473 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10464:10467 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10463:10463 R'_Axioms <> x:215 var
+R10468:10468 R'_Axioms <> y:216 var
+R10474:10474 R'_Axioms <> z:217 var
+prf 10500:10506 <> Rat_P9'
+R10510:10513 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R10517:10518 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 10514:10514 <> x:218
+binder 10516:10516 <> y:219
+R10527:10530 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10520:10524 MK_1_6 <> :::x_'∈'_x not
+R10519:10519 R'_Axioms <> x:218 var
+R10525:10526 R'_Axioms <> Q' def
+R10539:10542 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10532:10536 MK_1_6 <> :::x_'∈'_x not
+R10531:10531 R'_Axioms <> y:219 var
+R10537:10538 R'_Axioms <> Q' def
+R10549:10551 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R10544:10547 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10543:10543 R'_Axioms <> x:218 var
+R10548:10548 R'_Axioms <> y:219 var
+R10553:10556 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10552:10552 R'_Axioms <> y:219 var
+R10557:10557 R'_Axioms <> x:218 var
+prf 10583:10590 <> Rat_P10'
+R10594:10597 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R10603:10604 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 10598:10598 <> x:220
+binder 10600:10600 <> y:221
+binder 10602:10602 <> z:222
+R10613:10616 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10606:10610 MK_1_6 <> :::x_'∈'_x not
+R10605:10605 R'_Axioms <> x:220 var
+R10611:10612 R'_Axioms <> Q' def
+R10625:10628 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10618:10622 MK_1_6 <> :::x_'∈'_x not
+R10617:10617 R'_Axioms <> y:221 var
+R10623:10624 R'_Axioms <> Q' def
+R10637:10642 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10630:10634 MK_1_6 <> :::x_'∈'_x not
+R10629:10629 R'_Axioms <> z:222 var
+R10635:10636 R'_Axioms <> Q' def
+R10655:10657 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R10643:10643 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10649:10653 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10645:10647 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10644:10644 R'_Axioms <> x:220 var
+R10648:10648 R'_Axioms <> y:221 var
+R10654:10654 R'_Axioms <> z:222 var
+R10658:10658 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10665:10669 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10676:10676 R'_Axioms <> ::R'_scope:x_'+'_x not
+R10660:10663 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10659:10659 R'_Axioms <> x:220 var
+R10664:10664 R'_Axioms <> z:222 var
+R10671:10674 R'_Axioms <> ::R'_scope:x_'·'_x not
+R10670:10670 R'_Axioms <> y:221 var
+R10675:10675 R'_Axioms <> z:222 var
+prf 10698:10728 <> Existence_of_irRational_Number'
+R10732:10732 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R10740:10744 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R10735:10737 MK_1_6 <> :::x_'~'_x not
+R10733:10734 R'_Axioms <> R' defax
+R10738:10739 R'_Axioms <> Q' def
+R10745:10746 MK_1_6 <> Φ def
+prf 10797:10804 <> Arch_P1'
+R10808:10811 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R10813:10814 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 10812:10812 <> E:223
+R10823:10826 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10816:10820 MK_1_6 <> :::x_'⊂'_x not
+R10815:10815 R'_Axioms <> E:223 var
+R10821:10822 R'_Axioms <> N' def
+R10834:10837 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10828:10831 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R10827:10827 R'_Axioms <> E:223 var
+R10832:10833 MK_1_6 <> Φ def
+R10848:10853 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10838:10845 R'_Axioms <> Bounded' def
+R10847:10847 R'_Axioms <> E:223 var
+R10854:10857 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R10859:10860 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 10858:10858 <> n:224
+R10861:10864 R'_Axioms <> Max' def
+R10866:10866 R'_Axioms <> E:223 var
+R10868:10868 R'_Axioms <> n:224 var
+prf 10894:10901 <> Arch_P2'
+R10905:10906 Coq.Init.Logic <> ::type_scope:'~'_x not
+R10907:10910 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R10912:10913 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 10911:10911 <> n:225
+R10914:10919 R'_Axioms <> Upper' def
+R10921:10922 R'_Axioms <> N' def
+R10924:10924 R'_Axioms <> n:225 var
+prf 10950:10957 <> Arch_P3'
+R10961:10964 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R10966:10967 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 10965:10965 <> E:226
+R10976:10979 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10969:10973 MK_1_6 <> :::x_'⊂'_x not
+R10968:10968 R'_Axioms <> E:226 var
+R10974:10975 R'_Axioms <> Z' def
+R10987:10990 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10981:10984 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R10980:10980 R'_Axioms <> E:226 var
+R10985:10986 MK_1_6 <> Φ def
+R10991:10991 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11009:11015 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10992:10995 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R10997:10998 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 10996:10996 <> x:227
+R10999:11004 R'_Axioms <> Upper' def
+R11006:11006 R'_Axioms <> E:226 var
+R11008:11008 R'_Axioms <> x:227 var
+R11016:11019 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R11021:11022 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 11020:11020 <> n:228
+R11023:11026 R'_Axioms <> Max' def
+R11028:11028 R'_Axioms <> E:226 var
+R11030:11030 R'_Axioms <> n:228 var
+prf 11056:11063 <> Arch_P4'
+R11067:11070 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R11072:11073 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 11071:11071 <> E:229
+R11082:11085 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11075:11079 MK_1_6 <> :::x_'⊂'_x not
+R11074:11074 R'_Axioms <> E:229 var
+R11080:11081 R'_Axioms <> N' def
+R11093:11096 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11087:11090 Coq.Init.Logic <> ::type_scope:x_'<>'_x not
+R11086:11086 R'_Axioms <> E:229 var
+R11091:11092 MK_1_6 <> Φ def
+R11107:11112 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11097:11104 R'_Axioms <> Bounded' def
+R11106:11106 R'_Axioms <> E:229 var
+R11113:11116 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R11118:11119 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 11117:11117 <> n:230
+R11120:11123 R'_Axioms <> Min' def
+R11125:11125 R'_Axioms <> E:229 var
+R11127:11127 R'_Axioms <> n:230 var
+prf 11153:11160 <> Arch_P5'
+R11186:11189 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R11164:11166 Coq.Init.Logic <> ::type_scope:'~'_x not
+R11185:11185 Coq.Init.Logic <> ::type_scope:'~'_x not
+R11167:11170 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R11172:11173 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 11171:11171 <> n:231
+R11174:11179 R'_Axioms <> Lower' def
+R11181:11182 R'_Axioms <> Z' def
+R11184:11184 R'_Axioms <> n:231 var
+R11190:11192 Coq.Init.Logic <> ::type_scope:'~'_x not
+R11211:11211 Coq.Init.Logic <> ::type_scope:'~'_x not
+R11193:11196 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R11198:11199 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 11197:11197 <> n:232
+R11200:11205 R'_Axioms <> Upper' def
+R11207:11208 R'_Axioms <> Z' def
+R11210:11210 R'_Axioms <> n:232 var
+prf 11237:11244 <> Arch_P6'
+R11248:11251 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R11255:11256 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 11252:11252 <> h:233
+binder 11254:11254 <> x:234
+R11265:11268 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11258:11262 MK_1_6 <> :::x_'∈'_x not
+R11257:11257 R'_Axioms <> h:233 var
+R11263:11264 R'_Axioms <> R' defax
+R11275:11278 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11271:11273 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11269:11270 R'_Axioms <> ::R'_scope:'0'_'''' not
+R11274:11274 R'_Axioms <> h:233 var
+R11287:11293 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11339:11339 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11280:11284 MK_1_6 <> :::x_'∈'_x not
+R11279:11279 R'_Axioms <> x:234 var
+R11285:11286 R'_Axioms <> R' defax
+R11294:11302 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+R11304:11305 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+binder 11303:11303 <> k:235
+R11325:11328 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R11319:11323 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R11306:11306 R'_Axioms <> ::R'_scope:x_'·'_x not
+R11313:11317 R'_Axioms <> ::R'_scope:x_'·'_x not
+R11308:11310 R'_Axioms <> ::R'_scope:x_'-'_x not
+R11307:11307 R'_Axioms <> k:235 var
+R11311:11312 R'_Axioms <> ::R'_scope:'1'_'''' not
+R11318:11318 R'_Axioms <> h:233 var
+R11324:11324 R'_Axioms <> x:234 var
+R11330:11332 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11329:11329 R'_Axioms <> x:234 var
+R11334:11337 R'_Axioms <> ::R'_scope:x_'·'_x not
+R11333:11333 R'_Axioms <> k:235 var
+R11338:11338 R'_Axioms <> h:233 var
+prf 11365:11372 <> Arch_P7'
+R11376:11379 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R11381:11382 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 11380:11380 <> x:236
+R11391:11394 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11384:11388 MK_1_6 <> :::x_'∈'_x not
+R11383:11383 R'_Axioms <> x:236 var
+R11389:11390 R'_Axioms <> R' defax
+R11401:11407 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11452:11452 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11397:11399 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11395:11396 R'_Axioms <> ::R'_scope:'0'_'''' not
+R11400:11400 R'_Axioms <> x:236 var
+R11408:11411 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R11413:11414 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 11412:11412 <> n:237
+R11423:11426 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R11416:11420 MK_1_6 <> :::x_'∈'_x not
+R11415:11415 R'_Axioms <> n:237 var
+R11421:11422 R'_Axioms <> N' def
+R11438:11441 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R11429:11431 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11427:11428 R'_Axioms <> ::R'_scope:'0'_'''' not
+R11434:11436 R'_Axioms <> ::R'_scope:x_'/'_x not
+R11432:11433 R'_Axioms <> ::R'_scope:'1'_'''' not
+R11437:11437 R'_Axioms <> n:237 var
+R11448:11450 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11444:11446 R'_Axioms <> ::R'_scope:x_'/'_x not
+R11442:11443 R'_Axioms <> ::R'_scope:'1'_'''' not
+R11447:11447 R'_Axioms <> n:237 var
+R11451:11451 R'_Axioms <> x:236 var
+prf 11478:11485 <> Arch_P8'
+R11489:11492 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R11494:11495 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 11493:11493 <> x:238
+R11504:11507 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11497:11501 MK_1_6 <> :::x_'∈'_x not
+R11496:11496 R'_Axioms <> x:238 var
+R11502:11503 R'_Axioms <> R' defax
+R11516:11521 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11510:11514 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R11508:11509 R'_Axioms <> ::R'_scope:'0'_'''' not
+R11515:11515 R'_Axioms <> x:238 var
+R11522:11522 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11552:11556 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11523:11526 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R11528:11529 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 11527:11527 <> n:239
+R11538:11541 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11531:11535 MK_1_6 <> :::x_'∈'_x not
+R11530:11530 R'_Axioms <> n:239 var
+R11536:11537 R'_Axioms <> N' def
+R11543:11545 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11542:11542 R'_Axioms <> x:238 var
+R11548:11550 R'_Axioms <> ::R'_scope:x_'/'_x not
+R11546:11547 R'_Axioms <> ::R'_scope:'1'_'''' not
+R11551:11551 R'_Axioms <> n:239 var
+R11558:11560 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R11557:11557 R'_Axioms <> x:238 var
+R11561:11562 R'_Axioms <> ::R'_scope:'0'_'''' not
+prf 11588:11595 <> Arch_P9'
+R11599:11602 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R11606:11607 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 11603:11603 <> a:240
+binder 11605:11605 <> b:241
+R11616:11619 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11609:11613 MK_1_6 <> :::x_'∈'_x not
+R11608:11608 R'_Axioms <> a:240 var
+R11614:11615 R'_Axioms <> R' defax
+R11628:11631 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11621:11625 MK_1_6 <> :::x_'∈'_x not
+R11620:11620 R'_Axioms <> b:241 var
+R11626:11627 R'_Axioms <> R' defax
+R11637:11643 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11677:11677 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11633:11635 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11632:11632 R'_Axioms <> a:240 var
+R11636:11636 R'_Axioms <> b:241 var
+R11644:11647 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+R11649:11650 Pre_MK_Logic <> ::type_scope:'∃'_x_'..'_x_','_x not
+binder 11648:11648 <> r:242
+R11659:11662 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R11652:11656 MK_1_6 <> :::x_'∈'_x not
+R11651:11651 R'_Axioms <> r:242 var
+R11657:11658 R'_Axioms <> Q' def
+R11668:11671 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R11664:11666 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11663:11663 R'_Axioms <> a:240 var
+R11667:11667 R'_Axioms <> r:242 var
+R11673:11675 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11672:11672 R'_Axioms <> r:242 var
+R11676:11676 R'_Axioms <> b:241 var
+prf 11703:11711 <> Arch_P10'
+R11715:11718 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R11720:11721 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 11719:11719 <> x:243
+R11730:11736 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11782:11782 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11723:11727 MK_1_6 <> :::x_'∈'_x not
+R11722:11722 R'_Axioms <> x:243 var
+R11728:11729 R'_Axioms <> R' defax
+R11737:11745 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+R11747:11748 Coq.Init.Logic <> ::type_scope:'exists'_'!'_x_'..'_x_','_x not
+binder 11746:11746 <> k:244
+R11757:11760 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R11750:11754 MK_1_6 <> :::x_'∈'_x not
+R11749:11749 R'_Axioms <> k:244 var
+R11755:11756 R'_Axioms <> Z' def
+R11768:11771 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R11762:11766 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R11761:11761 R'_Axioms <> k:244 var
+R11767:11767 R'_Axioms <> x:243 var
+R11773:11775 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11772:11772 R'_Axioms <> x:243 var
+R11777:11779 R'_Axioms <> ::R'_scope:x_'+'_x not
+R11776:11776 R'_Axioms <> k:244 var
+R11780:11781 R'_Axioms <> ::R'_scope:'1'_'''' not
+R11888:11890 MK_1_6 <> :::'\{'_x_'\}' not
+R11923:11925 MK_1_6 <> :::'\{'_x_'\}' not
+R11891:11893 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R11895:11896 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 11894:11894 <> x:245
+R11905:11908 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R11898:11902 MK_1_6 <> :::x_'∈'_x not
+R11897:11897 R'_Axioms <> x:245 var
+R11903:11904 R'_Axioms <> R' defax
+R11914:11917 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R11910:11912 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11913:11913 R'_Axioms <> x:245 var
+R11919:11921 R'_Axioms <> ::R'_scope:x_'<'_x not
+R11918:11918 R'_Axioms <> x:245 var
+not 11868:11868 <> ::R'_scope:'］'_x_','_x_'［'
+R12029:12031 MK_1_6 <> :::'\{'_x_'\}' not
+R12068:12070 MK_1_6 <> :::'\{'_x_'\}' not
+R12032:12034 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R12036:12037 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 12035:12035 <> x:246
+R12046:12049 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12039:12043 MK_1_6 <> :::x_'∈'_x not
+R12038:12038 R'_Axioms <> x:246 var
+R12044:12045 R'_Axioms <> R' defax
+R12057:12060 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12051:12055 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R12056:12056 R'_Axioms <> x:246 var
+R12062:12066 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R12061:12061 R'_Axioms <> x:246 var
+not 12009:12009 <> ::R'_scope:'［'_x_','_x_'］'
+R12177:12179 MK_1_6 <> :::'\{'_x_'\}' not
+R12214:12216 MK_1_6 <> :::'\{'_x_'\}' not
+R12180:12182 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R12184:12185 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 12183:12183 <> x:247
+R12194:12197 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12187:12191 MK_1_6 <> :::x_'∈'_x not
+R12186:12186 R'_Axioms <> x:247 var
+R12192:12193 R'_Axioms <> R' defax
+R12203:12206 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12199:12201 R'_Axioms <> ::R'_scope:x_'<'_x not
+R12202:12202 R'_Axioms <> x:247 var
+R12208:12212 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R12207:12207 R'_Axioms <> x:247 var
+not 12157:12157 <> ::R'_scope:'］'_x_','_x_'］'
+R12323:12325 MK_1_6 <> :::'\{'_x_'\}' not
+R12360:12362 MK_1_6 <> :::'\{'_x_'\}' not
+R12326:12328 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R12330:12331 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 12329:12329 <> x:248
+R12340:12343 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12333:12337 MK_1_6 <> :::x_'∈'_x not
+R12332:12332 R'_Axioms <> x:248 var
+R12338:12339 R'_Axioms <> R' defax
+R12351:12354 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12345:12349 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R12350:12350 R'_Axioms <> x:248 var
+R12356:12358 R'_Axioms <> ::R'_scope:x_'<'_x not
+R12355:12355 R'_Axioms <> x:248 var
+not 12303:12303 <> ::R'_scope:'［'_x_','_x_'［'
+R12471:12473 MK_1_6 <> :::'\{'_x_'\}' not
+R12497:12499 MK_1_6 <> :::'\{'_x_'\}' not
+R12474:12476 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R12478:12479 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 12477:12477 <> x:249
+R12488:12491 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12481:12485 MK_1_6 <> :::x_'∈'_x not
+R12480:12480 R'_Axioms <> x:249 var
+R12486:12487 R'_Axioms <> R' defax
+R12493:12495 R'_Axioms <> ::R'_scope:x_'<'_x not
+R12496:12496 R'_Axioms <> x:249 var
+not 12449:12449 <> ::R'_scope:'］'_x_','_'+∞［'
+R12575:12577 MK_1_6 <> :::'\{'_x_'\}' not
+R12603:12605 MK_1_6 <> :::'\{'_x_'\}' not
+R12578:12580 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R12582:12583 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 12581:12581 <> x:250
+R12592:12595 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12585:12589 MK_1_6 <> :::x_'∈'_x not
+R12584:12584 R'_Axioms <> x:250 var
+R12590:12591 R'_Axioms <> R' defax
+R12597:12601 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R12602:12602 R'_Axioms <> x:250 var
+not 12553:12553 <> ::R'_scope:'［'_x_','_'+∞［'
+R12681:12683 MK_1_6 <> :::'\{'_x_'\}' not
+R12709:12711 MK_1_6 <> :::'\{'_x_'\}' not
+R12684:12686 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R12688:12689 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 12687:12687 <> x:251
+R12698:12701 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12691:12695 MK_1_6 <> :::x_'∈'_x not
+R12690:12690 R'_Axioms <> x:251 var
+R12696:12697 R'_Axioms <> R' defax
+R12703:12707 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R12702:12702 R'_Axioms <> x:251 var
+not 12659:12659 <> ::R'_scope:'］-∞'_','_x_'］'
+R12788:12790 MK_1_6 <> :::'\{'_x_'\}' not
+R12814:12816 MK_1_6 <> :::'\{'_x_'\}' not
+R12791:12793 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R12795:12796 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 12794:12794 <> x:252
+R12805:12808 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12798:12802 MK_1_6 <> :::x_'∈'_x not
+R12797:12797 R'_Axioms <> x:252 var
+R12803:12804 R'_Axioms <> R' defax
+R12810:12812 R'_Axioms <> ::R'_scope:x_'<'_x not
+R12809:12809 R'_Axioms <> x:252 var
+not 12765:12765 <> ::R'_scope:'］]-∞'_','_x_'［'
+R12890:12891 R'_Axioms <> R' defax
+not 12870:12870 <> ::R'_scope:']-∞'_','_'+∞['
+def 12943:12956 <> Neighbourhood'
+binder 12958:12958 <> x:253
+binder 12960:12961 <> δ:254
+R12974:12977 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12967:12971 MK_1_6 <> :::x_'∈'_x not
+R12966:12966 R'_Axioms <> x:253 var
+R12972:12973 R'_Axioms <> R' defax
+R12987:12992 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R12980:12984 MK_1_6 <> :::x_'∈'_x not
+R12978:12979 R'_Axioms <> δ:254 var
+R12985:12986 R'_Axioms <> R' defax
+R12994:12998 MK_1_6 <> :::x_'∈'_x not
+R12993:12993 R'_Axioms <> x:253 var
+R12999:13002 R'_Axioms <> ::R'_scope:'］'_x_','_x_'［' not
+R13009:13011 R'_Axioms <> ::R'_scope:'］'_x_','_x_'［' not
+R13018:13021 R'_Axioms <> ::R'_scope:'］'_x_','_x_'［' not
+R13004:13006 R'_Axioms <> ::R'_scope:x_'-'_x not
+R13003:13003 R'_Axioms <> x:253 var
+R13007:13008 R'_Axioms <> δ:254 var
+R13013:13015 R'_Axioms <> ::R'_scope:x_'+'_x not
+R13012:13012 R'_Axioms <> x:253 var
+R13016:13017 R'_Axioms <> δ:254 var
+def 13058:13061 <> Abs'
+R13066:13069 MK_1_6 <> :::'\{\'_x_'\}\' not
+R13137:13140 MK_1_6 <> :::'\{\'_x_'\}\' not
+R13070:13072 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+R13076:13077 Pre_MK_Logic <> :::'λ'_x_'..'_x_','_x not
+binder 13073:13073 <> u:255
+binder 13075:13075 <> v:256
+R13086:13092 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13136:13136 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13079:13083 MK_1_6 <> :::x_'∈'_x not
+R13078:13078 R'_Axioms <> u:255 var
+R13084:13085 R'_Axioms <> R' defax
+R13093:13093 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R13111:13116 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R13135:13135 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R13102:13105 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13096:13100 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R13094:13095 R'_Axioms <> ::R'_scope:'0'_'''' not
+R13101:13101 R'_Axioms <> u:255 var
+R13107:13109 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13106:13106 R'_Axioms <> v:256 var
+R13110:13110 R'_Axioms <> u:255 var
+R13123:13126 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13118:13120 R'_Axioms <> ::R'_scope:x_'<'_x not
+R13117:13117 R'_Axioms <> u:255 var
+R13121:13122 R'_Axioms <> ::R'_scope:'0'_'''' not
+R13128:13131 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13134:13134 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13127:13127 R'_Axioms <> v:256 var
+R13132:13132 R'_Axioms <> ::R'_scope:'-'_x not
+R13133:13133 R'_Axioms <> u:255 var
+prf 13154:13167 <> Abs_Corollary'
+R13184:13187 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13171:13178 MK_1_6 <> Function def
+R13180:13183 R'_Axioms <> Abs' def
+R13202:13207 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13197:13199 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13188:13191 MK_1_6 <> :::'dom('_x_')' not
+R13196:13196 MK_1_6 <> :::'dom('_x_')' not
+R13192:13195 R'_Axioms <> Abs' def
+R13200:13201 R'_Axioms <> R' defax
+R13217:13221 MK_1_6 <> :::x_'⊂'_x not
+R13208:13211 MK_1_6 <> :::'ran('_x_')' not
+R13216:13216 MK_1_6 <> :::'ran('_x_')' not
+R13212:13215 R'_Axioms <> Abs' def
+R13222:13223 R'_Axioms <> R' defax
+R13266:13266 MK_1_6 <> :::x_'['_x_']' not
+R13268:13268 MK_1_6 <> :::x_'['_x_']' not
+R13262:13265 R'_Axioms <> Abs' def
+not 13246:13246 <> ::R'_scope:'｜'_x_'｜'
+def 13321:13329 <> Distance'
+binder 13331:13331 <> x:257
+binder 13333:13333 <> y:258
+R13338:13341 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13347:13350 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13343:13345 R'_Axioms <> ::R'_scope:x_'-'_x not
+R13342:13342 R'_Axioms <> x:257 var
+R13346:13346 R'_Axioms <> y:258 var
+prf 13391:13397 <> Abs_P1'
+R13401:13404 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R13406:13407 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 13405:13405 <> x:259
+R13416:13419 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13409:13413 MK_1_6 <> :::x_'∈'_x not
+R13408:13408 R'_Axioms <> x:259 var
+R13414:13415 R'_Axioms <> R' defax
+R13434:13438 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13462:13462 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13422:13426 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R13420:13421 R'_Axioms <> ::R'_scope:'0'_'''' not
+R13427:13429 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13431:13433 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13430:13430 R'_Axioms <> x:259 var
+R13451:13455 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R13446:13448 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13439:13441 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13443:13445 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13442:13442 R'_Axioms <> x:259 var
+R13449:13450 R'_Axioms <> ::R'_scope:'0'_'''' not
+R13457:13459 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13456:13456 R'_Axioms <> x:259 var
+R13460:13461 R'_Axioms <> ::R'_scope:'0'_'''' not
+prf 13488:13494 <> Abs_P2'
+R13498:13501 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R13503:13504 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 13502:13502 <> x:260
+R13513:13516 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13506:13510 MK_1_6 <> :::x_'∈'_x not
+R13505:13505 R'_Axioms <> x:260 var
+R13511:13512 R'_Axioms <> R' defax
+R13537:13540 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13524:13526 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13517:13519 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13521:13523 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13520:13520 R'_Axioms <> x:260 var
+R13527:13530 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13533:13536 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13531:13531 R'_Axioms <> ::R'_scope:'-'_x not
+R13532:13532 R'_Axioms <> x:260 var
+R13555:13560 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13549:13553 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R13541:13541 R'_Axioms <> ::R'_scope:'-'_x not
+R13542:13544 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13546:13548 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13545:13545 R'_Axioms <> x:260 var
+R13554:13554 R'_Axioms <> x:260 var
+R13562:13566 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R13561:13561 R'_Axioms <> x:260 var
+R13567:13569 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13571:13573 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13570:13570 R'_Axioms <> x:260 var
+prf 13599:13605 <> Abs_P3'
+R13609:13612 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R13616:13617 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 13613:13613 <> x:261
+binder 13615:13615 <> y:262
+R13626:13629 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13619:13623 MK_1_6 <> :::x_'∈'_x not
+R13618:13618 R'_Axioms <> x:261 var
+R13624:13625 R'_Axioms <> R' defax
+R13638:13641 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13631:13635 MK_1_6 <> :::x_'∈'_x not
+R13630:13630 R'_Axioms <> y:262 var
+R13636:13637 R'_Axioms <> R' defax
+R13656:13658 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R13642:13645 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13652:13655 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13647:13650 R'_Axioms <> ::R'_scope:x_'·'_x not
+R13646:13646 R'_Axioms <> x:261 var
+R13651:13651 R'_Axioms <> y:262 var
+R13666:13669 R'_Axioms <> ::R'_scope:x_'·'_x not
+R13659:13661 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13663:13665 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13662:13662 R'_Axioms <> x:261 var
+R13670:13672 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13674:13676 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13673:13673 R'_Axioms <> y:262 var
+prf 13702:13708 <> Abs_P4'
+R13712:13715 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R13719:13720 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 13716:13716 <> x:263
+binder 13718:13718 <> y:264
+R13729:13732 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13722:13726 MK_1_6 <> :::x_'∈'_x not
+R13721:13721 R'_Axioms <> x:263 var
+R13727:13728 R'_Axioms <> R' defax
+R13741:13744 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13734:13738 MK_1_6 <> :::x_'∈'_x not
+R13733:13733 R'_Axioms <> y:264 var
+R13739:13740 R'_Axioms <> R' defax
+R13751:13756 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13747:13749 R'_Axioms <> ::R'_scope:x_'<'_x not
+R13745:13746 R'_Axioms <> ::R'_scope:'0'_'''' not
+R13750:13750 R'_Axioms <> y:264 var
+R13770:13774 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R13764:13768 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R13757:13759 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13761:13763 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13760:13760 R'_Axioms <> x:263 var
+R13769:13769 R'_Axioms <> y:264 var
+R13783:13786 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13777:13781 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R13775:13775 R'_Axioms <> ::R'_scope:'-'_x not
+R13776:13776 R'_Axioms <> y:264 var
+R13782:13782 R'_Axioms <> x:263 var
+R13788:13792 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R13787:13787 R'_Axioms <> x:263 var
+R13793:13793 R'_Axioms <> y:264 var
+prf 13819:13825 <> Abs_P5'
+R13829:13832 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R13836:13837 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 13833:13833 <> x:265
+binder 13835:13835 <> y:266
+R13846:13849 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13839:13843 MK_1_6 <> :::x_'∈'_x not
+R13838:13838 R'_Axioms <> x:265 var
+R13844:13845 R'_Axioms <> R' defax
+R13858:13861 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13851:13855 MK_1_6 <> :::x_'∈'_x not
+R13850:13850 R'_Axioms <> y:266 var
+R13856:13857 R'_Axioms <> R' defax
+R13897:13902 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13875:13879 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R13862:13865 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13871:13874 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13867:13869 R'_Axioms <> ::R'_scope:x_'+'_x not
+R13866:13866 R'_Axioms <> x:265 var
+R13870:13870 R'_Axioms <> y:266 var
+R13887:13889 R'_Axioms <> ::R'_scope:x_'+'_x not
+R13880:13882 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13884:13886 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13883:13883 R'_Axioms <> x:265 var
+R13890:13892 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13894:13896 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13893:13893 R'_Axioms <> y:266 var
+R13938:13941 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R13916:13920 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R13903:13906 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13912:13915 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13908:13910 R'_Axioms <> ::R'_scope:x_'-'_x not
+R13907:13907 R'_Axioms <> x:265 var
+R13911:13911 R'_Axioms <> y:266 var
+R13928:13930 R'_Axioms <> ::R'_scope:x_'+'_x not
+R13921:13923 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13925:13927 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13924:13924 R'_Axioms <> x:265 var
+R13931:13933 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13935:13937 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13934:13934 R'_Axioms <> y:266 var
+R13967:13971 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R13942:13945 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13963:13966 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13953:13955 R'_Axioms <> ::R'_scope:x_'-'_x not
+R13946:13948 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13950:13952 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13949:13949 R'_Axioms <> x:265 var
+R13956:13958 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13960:13962 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13959:13959 R'_Axioms <> y:266 var
+R13972:13975 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13981:13984 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R13977:13979 R'_Axioms <> ::R'_scope:x_'-'_x not
+R13976:13976 R'_Axioms <> x:265 var
+R13980:13980 R'_Axioms <> y:266 var
+prf 14010:14016 <> Abs_P6'
+R14020:14023 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R14027:14028 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 14024:14024 <> x:267
+binder 14026:14026 <> y:268
+R14037:14040 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14030:14034 MK_1_6 <> :::x_'∈'_x not
+R14029:14029 R'_Axioms <> x:267 var
+R14035:14036 R'_Axioms <> R' defax
+R14049:14054 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14042:14046 MK_1_6 <> :::x_'∈'_x not
+R14041:14041 R'_Axioms <> y:268 var
+R14047:14048 R'_Axioms <> R' defax
+R14073:14077 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R14068:14070 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R14055:14058 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14064:14067 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14060:14062 R'_Axioms <> ::R'_scope:x_'-'_x not
+R14059:14059 R'_Axioms <> x:267 var
+R14063:14063 R'_Axioms <> y:268 var
+R14071:14072 R'_Axioms <> ::R'_scope:'0'_'''' not
+R14079:14081 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R14078:14078 R'_Axioms <> x:267 var
+R14082:14082 R'_Axioms <> y:268 var
+prf 14108:14114 <> Abs_P7'
+R14118:14121 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R14125:14126 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 14122:14122 <> x:269
+binder 14124:14124 <> y:270
+R14135:14138 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14128:14132 MK_1_6 <> :::x_'∈'_x not
+R14127:14127 R'_Axioms <> x:269 var
+R14133:14134 R'_Axioms <> R' defax
+R14147:14150 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14140:14144 MK_1_6 <> :::x_'∈'_x not
+R14139:14139 R'_Axioms <> y:270 var
+R14145:14146 R'_Axioms <> R' defax
+R14164:14166 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R14151:14154 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14160:14163 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14156:14158 R'_Axioms <> ::R'_scope:x_'-'_x not
+R14155:14155 R'_Axioms <> x:269 var
+R14159:14159 R'_Axioms <> y:270 var
+R14167:14170 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14176:14179 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14172:14174 R'_Axioms <> ::R'_scope:x_'-'_x not
+R14171:14171 R'_Axioms <> y:270 var
+R14175:14175 R'_Axioms <> x:269 var
+prf 14205:14211 <> Abs_P8'
+R14215:14218 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+R14224:14225 Pre_MK_Logic <> ::type_scope:'∀'_x_'..'_x_','_x not
+binder 14219:14219 <> x:271
+binder 14221:14221 <> y:272
+binder 14223:14223 <> z:273
+R14234:14237 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14227:14231 MK_1_6 <> :::x_'∈'_x not
+R14226:14226 R'_Axioms <> x:271 var
+R14232:14233 R'_Axioms <> R' defax
+R14246:14249 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14239:14243 MK_1_6 <> :::x_'∈'_x not
+R14238:14238 R'_Axioms <> y:272 var
+R14244:14245 R'_Axioms <> R' defax
+R14258:14263 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14251:14255 MK_1_6 <> :::x_'∈'_x not
+R14250:14250 R'_Axioms <> z:273 var
+R14256:14257 R'_Axioms <> R' defax
+R14277:14281 R'_Axioms <> ::R'_scope:x_'≤'_x not
+R14264:14267 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14273:14276 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14269:14271 R'_Axioms <> ::R'_scope:x_'-'_x not
+R14268:14268 R'_Axioms <> x:271 var
+R14272:14272 R'_Axioms <> y:272 var
+R14295:14297 R'_Axioms <> ::R'_scope:x_'+'_x not
+R14282:14285 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14291:14294 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14287:14289 R'_Axioms <> ::R'_scope:x_'-'_x not
+R14286:14286 R'_Axioms <> x:271 var
+R14290:14290 R'_Axioms <> z:273 var
+R14298:14301 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14307:14310 R'_Axioms <> ::R'_scope:'｜'_x_'｜' not
+R14303:14305 R'_Axioms <> ::R'_scope:x_'-'_x not
+R14302:14302 R'_Axioms <> z:273 var
+R14306:14306 R'_Axioms <> y:272 var
